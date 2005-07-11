@@ -8,7 +8,7 @@
 𐌺𐌿𐌽𐌾𐌰: [[:Category:𐌰𐌹𐌽𐍉𐍃|𐌰𐌹𐌽𐍉𐍃]], [[:Category:𐍂𐌴𐌹𐌺𐌹|𐍂𐌴𐌹𐌺𐌹]]
 {| cellspacing=3
 {| width="95%"
-|bgcolor="#fff4f4" style="border:1px solid #ffa9a9;padding:.5em;"|
-===You need to download and install a Gothic unicode font to display the Gothic Wikipedia correctly.===
-Please see [[Wikipedia:Gothic_Unicode_Fonts]] for more information.
+| bgcolor="#fff4f4" style="font-family: Verdana; border:1px solid #ffa9a9;padding:.5em;"|
+<h4>You need to download and install a Gothic unicode font for correct display.</h4>
+Please see the [[Wikipedia:Gothic_Unicode_Fonts|Gothic unicode fonts]] section for more information.
 |}
