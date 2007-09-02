@@ -40,7 +40,7 @@ __NOTOC__ __NOEDITSECTION__
 <h3 style="background:#d1d0f5; border:1px solid #aea2cf; text-align: center; margin: 0px; padding:2px;">
 𐌽𐌹-𐍂𐍉𐌳𐌴𐌹𐍃 𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰𐌹? 𐌷𐌴𐍂 𐌹𐍃𐍄 𐌷𐌹𐌻𐍀𐌰!
 </h3>
-<div style="border:1px solid #d1d0f5; background:#f4f1fc;">
+<div style="border:1px solid #aea2cf; border-top:none; background:#f4f1fc;">
 <div style="padding:6px;">
 Ni saiƕis Wikipedja ? Dalaþlaþan gutiska [[Wikipedia:Dalaþlaþan Gutiska Meljanboeka|meljanboeka]]!
 
@@ -50,10 +50,12 @@ Ni saiƕis Wikipedja ? Dalaþlaþan gutiska [[Wikipedia:Dalaþlaþan Gutiska Mel
 
 </div>
 </div>
+
+
 <h3 style="background:#d1d0f5; border:1px solid #aea2cf; text-align: center; margin: 0px; padding:2px;">
 𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽 𐍃𐌴𐌹𐌳𐍉
 </h3>
-<div style="border:1px solid #d1d0f5; background:#f4f1fc;">
+<div style="border:1px solid #aea2cf; background:#f4f1fc; border-top: none;">
 <div style="padding:6px;">
 <center>
 <inputbox>type=create
@@ -65,10 +67,10 @@ bgcolor=#f4f1fc
 </center>
 </div></div>
 |width="54.5%" class="MainPageBG" style="vertical-align: top;"|
-<h3 style="background:#ffe9a6; border:1px solid #dcbe73; text-align:center; margin: 0px; padding:2px;">
+<h3 style="background:#ffe9a6; border:1px solid #dcbe73; border-bottom: none; text-align:center; margin: 0px; padding:2px;">
 𐌽𐌹𐌿𐌾𐌰 𐍃𐌴𐌹𐌳𐍉𐍃
 </h3>
-<div style="border:1px solid #ffe9a6; background:#fffbee; vertical-align:top;">
+<div style="border:1px solid #dcbe73; background:#fffbee; vertical-align:top;">
 <div style="padding:6px; margin-top: -12px;">
 {{Special:Newpages/4}}
 </div>
