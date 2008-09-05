@@ -73,14 +73,7 @@ bgcolor=#f4f1fc
 <div style="border:1px solid #dcbe73; background:#fffbee; vertical-align:top;">
 <div style="padding:6px; margin-top: -12px;">
 {{Special:Newpages/4}}
-{| style="border-spacing:8px;margin: 0px -8px"
-|width="100%" style="border:1px solid #d0f5e5; background-color:#f1fcf5; vertical-align:top;"|
-{| width="100%" cellpadding="2" cellspacing="5" style="background-color:#f1fcf5;vertical-align:top;"
-! style="background-color:#d0f5e5; font-family: Arial, Helvetica, sans-serif; font-size:140%; border:1px solid #a6c4b5; text-align:left"  | 𐍅𐌰𐌿𐍂𐍃𐍄𐍅𐌰 𐍃𐍅𐌹𐍃𐍄𐍂𐌾𐌿𐍃 𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃
-|-
-|{{Wikipediaswistrjus}}
-|}
-|}
+
 
 </div>
 </div>
@@ -93,6 +86,14 @@ bgcolor=#f4f1fc
 |
 <div class="boilerplate metadata" id="lang-100000" font-size:95%;">
 {{razdos}}
+{| style="border-spacing:8px;margin: 0px -8px"
+|width="100%" style="border:1px solid #d0f5e5; background-color:#f1fcf5; vertical-align:top;"|
+{| width="100%" cellpadding="2" cellspacing="5" style="background-color:#f1fcf5;vertical-align:top;"
+! style="background-color:#d0f5e5; font-family: Arial, Helvetica, sans-serif; font-size:140%; border:1px solid #a6c4b5; text-align:left"  | 𐍅𐌰𐌿𐍂𐍃𐍄𐍅𐌰 𐍃𐍅𐌹𐍃𐍄𐍂𐌾𐌿𐍃 𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃
+|-
+|{{Wikipediaswistrjus}}
+|}
+|}
 <br clear="all" />
 
 <div style="height: 8px;"></div>
