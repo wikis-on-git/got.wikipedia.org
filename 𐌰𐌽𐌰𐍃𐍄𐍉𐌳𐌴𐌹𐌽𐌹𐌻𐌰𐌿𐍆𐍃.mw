@@ -72,7 +72,7 @@ bgcolor=#f4f1fc
 </h3>
 <div style="border:1px solid #dcbe73; background:#fffbee; vertical-align:top;">
 <div style="padding:6px; margin-top: -12px;">
-{{Special:Newpages/4}}
+
 
 
 </div>
@@ -86,6 +86,7 @@ bgcolor=#f4f1fc
 |
 <div class="boilerplate metadata" id="lang-100000" font-size:95%;">
 {{razdos}}
+{{Special:Newpages/4}}
 {| style="border-spacing:8px;margin: 0px -8px"
 |width="100%" style="border:1px solid #d0f5e5; background-color:#f1fcf5; vertical-align:top;"|
 {| width="100%" cellpadding="2" cellspacing="5" style="background-color:#f1fcf5;vertical-align:top;"
