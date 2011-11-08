@@ -1,10 +1,10 @@
 {| border="1" cellpadding="2" cellspacing="0" align="right" width="280px"
-|+<font size="+1">'''𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐌰<br>Република Македонија'''</font>
+|+<font size="+1">'''𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐌰<br />Република Македонија'''</font>
 |- 
 | style="background:#efefef;" align="center" colspan=2 | 
 {| border="0" cellpadding="2" cellspacing="0"
-| align="center" width="135px" | [[Image:Flag of Macedonia.svg|135px|'''𐍆𐌰𐌽𐌰 𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐍉𐍃''']]
-| align="center" width="135px" rowspan="2" height="130px" | [[Image:Coat of arms of the Republic of Macedonia.svg|90px|𐌱𐌰𐌽𐌳𐍅𐌰 𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐍉𐍃]]
+| align="center" width="135px" | [[File:Flag of Macedonia.svg|135px|'''𐍆𐌰𐌽𐌰 𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐍉𐍃''']]
+| align="center" width="135px" rowspan="2" height="130px" | [[File:Coat of arms of the Republic of Macedonia.svg|90px|𐌱𐌰𐌽𐌳𐍅𐌰 𐌼𐌰𐌺𐌰𐌹𐌳𐍉𐌽𐌾𐍉𐍃]]
 |}
 |- 
 | align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">'' 𐌲𐌰 𐌾𐌿𐌺𐍉 𐌸𐌹𐌿𐌳𐍉𐍃:𐌽𐌴 ''</font>
@@ -42,7 +42,7 @@
 | 	𐍂𐌰𐌸𐌾𐍉𐌽𐍃 𐍄𐌴𐌻𐌴𐍆𐍉𐌽𐌹𐍃	
 | 389		
 |- 
-| colspan="2" align="center" | [[Image:Europe-Macedonia.svg| 200px|]]
+| colspan="2" align="center" | [[File:Europe-Macedonia.svg| 200px|]]
 |}
 
 '''Makaidonja''' aiþþau '''Makidonja''' ist land in sunþrai halbai austraizos [[𐌰𐌹𐍅𐍂𐍉𐍀𐌰/Aiwropa|Aiwropos]].
@@ -136,7 +136,6 @@
 [[ko:마케도니아 공화국]]
 [[koi:Республика Македония]]
 [[krc:Македония]]
-[[ks:मेसेडोनिया]]
 [[ku:Komara Makedonyayê]]
 [[kv:Македония Республика]]
 [[kw:Repoblek Makedoni]]
