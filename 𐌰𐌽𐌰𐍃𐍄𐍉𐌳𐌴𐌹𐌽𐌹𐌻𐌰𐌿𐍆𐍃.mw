@@ -1,47 +1,64 @@
-__NOTOC__ __NOEDITSECTION__
-{|style="width:100%; clear: both; margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
-|style="width: 100%; background-color: #eee;" colspan="4"| &nbsp;
+{| id="haubidaseidointro" style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border:1px solid #ccc; background-repeat:no-repeat; background-position:1% 25%"
+| style="height:6.8em; width:50%"|
+{|style="width:280px; border:solid 0px; background-color:transparent"
 |-
-|style="width:56%;color:#000"|
-{|style="width:280px;border:solid 0px;background:none"
-|-
-|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-<h1 style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">𐌷𐌰𐌹𐌻, 𐌰𐌻𐌻 𐌰𐌽𐌰-𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐌰𐌹</h1>
-<div style="top:+0.2em;font-size: 95%">𐌸𐌹𐌶𐌰𐌹 𐍆𐍂𐌹𐌾𐍉𐌽 𐌲𐌿𐍄𐌹𐍃𐌺𐍉𐌽 𐌴𐌲𐌺𐌴𐌹𐌺𐌻𐍉𐍀𐌴𐌳𐌾𐌰𐌹.</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] 𐍃𐌴𐌹𐌳𐍉𐍃 𐌰𐌽𐌰 𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰𐌹</div>
-|-
-|}<!-- ----------Portals Follow---------------------------- -->
-|style="width:11%;font-size:95%" class="nounderlinelink"|
-*[[:Category:𐌰𐌹𐌽𐍉𐍃|𐌰𐌹𐌽𐍉𐍃]]
-*[[:Category:𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]
-*[[:Category:𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]
-|style="width:11%;font-size:95%" class="nounderlinelink"|
-*[[:Category:𐍂𐌴𐌹𐌺𐌹|𐍂𐌴𐌹𐌺𐌹]]
-* [[:Category:𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]
-* [[:Category:𐌲𐌿𐍄𐌰𐌽𐍃|𐌲𐌿𐍄𐌰𐌽𐍃]]
-|style="width:11%;font-size:95%" class="nounderlinelink"|
-*[[:Category:𐌺𐌿𐌽𐌹|𐌺𐌿𐌽𐌹]]
-*'''[[Special:Categories|𐌰𐌻𐌻𐌰]]'''
-|-
-|style="width: 100%; background-color: #eee;" colspan="4"| 
-{|style="width:100%; background-color: transparent; margin-top:-.8em; margin-bottom:-.7em"
-|style="font-size:95%; white-space: nowrap; text-align:left"|
-[[Wikipedia:Alja-Kuns Waurds|𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰 𐍅𐌰𐌿𐍂𐌳𐌰]] '''&middot;'''  [[Help:Contents|𐌷𐌹𐌻𐍀𐌰]] '''&middot;''' [[Wikipedia:Hail, Gutans!|𐌷𐌰𐌹𐌻, 𐌲𐌿𐍄𐌰𐌽𐍃!]] '''&middot;''' [[Wikipedia:Razdsamanbauains|𐌰𐌻𐌻𐍂𐌰𐌶𐌳𐍉𐌱𐌰𐌿𐌰𐌹𐌽𐍃]] '''&middot;''' [[Wikipedia:Iubair|𐌰𐌽𐌰 𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐌰𐌹]]
-|style="font-size:95%; padding-top:10px; padding-bottom:10px; white-space: nowrap; margin:0px; text-align:right"|
-[[Special:Allpages|𐌰𐌻𐌻𐌹𐍃 𐍃𐌴𐌹𐌳𐍉𐍃]]
+| style="width:280px; text-align:center; white-space:nowrap" |
+<div style="font-size:172%; padding:.1em">𐌷𐌰𐌹𐌻, 𐌰𐌻𐌻 𐌰𐌽𐌰-𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐌰𐌹</div>
+<div style="padding-top:0.1em; font-size:95%">𐌸𐍉𐍃 𐍆𐍂𐌹𐌾𐍉𐌽𐍃 𐌲𐌿𐍄𐌹𐍃𐌺𐍉𐌽𐍃 𐍆𐍂𐍉𐌳𐌹𐌱𐍉𐌺𐍉𐍃.</div>
+<div style="padding-top:0.1em; font-weight:bold; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] 𐍃𐌴𐌹𐌳𐍉𐍃 𐌰𐌽𐌰 𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰𐌹</div>
 |}
-|-
+|style="width:20%; font-size:100%"|
+* [[Wikipedia:𐌽𐌹𐌿𐌾𐌰 𐍅𐌰𐌵𐍂𐌳𐌰|𐌽𐌹𐌿𐌾𐌰 𐍅𐌰𐌵𐍂𐌳𐌰]] <br />
+* [[Help:Contents|𐌻𐌴𐌹𐍄𐌹𐌻𐌰 𐌷𐌹𐌻𐍀𐌰]]<br />
+* [[Wikipedia:𐌱𐌰𐌿𐍂𐌲𐍃 𐌲𐌰𐍅𐌹|𐌱𐌰𐌿𐍂𐌲𐍃 𐌲𐌰𐍅𐌹]]<br />
+|style="width:20%; font-size:100%"|
+* [[Wikipedia:𐍂𐌰𐌶𐌳𐌰𐌲𐌰𐍂𐌿𐌽𐌹|𐍂𐌰𐌶𐌳𐌰𐌲𐌰𐍂𐌿𐌽𐌹]] <br />
+* [[Wikipedia:𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰 𐍅𐌰𐌿𐍂𐌳𐌰|𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰 𐍅𐌰𐌿𐍂𐌳𐌰]] <br />
+* [[Wikipedia:𐌱𐌰𐌿𐍂𐌲𐍃 𐌱𐍂𐌿𐌽𐌽𐌰|𐌱𐌰𐌿𐍂𐌲𐍃 𐌱𐍂𐌿𐌽𐌽𐌰]] <br />
 |}
-<div style="height: 3px;"></div>
 
-{|style="width: 100%;"
+<div style="margin-top:1em; margin-bottom:1em; font-size:110%;">𐍅𐌰𐌹𐌻𐌰 𐌰𐌽𐌳𐌰𐌽𐌴𐌼𐍃 𐌰𐌽𐌰 𐌿𐍃𐌲𐌰𐌱𐌰𐌹 𐍆𐍂𐌰𐌼 [[𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰𐌹]], 𐍆𐍂𐍉𐌳𐌹𐌱𐍉𐌺𐍉𐍃 𐌹𐌽 𐌸𐌰𐌼𐌼𐌰 𐌽𐌰𐍄𐌾𐌰, 𐍈𐌰𐍂𐌴𐌹 𐌰𐌹𐌽𐍃𐌷𐌿𐌽 𐌼𐌰𐌲 𐌼𐌹𐌸𐌰𐍂𐌱𐌰𐌹𐌳𐌾𐌰𐌽. 𐍃𐍉𐌷 𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰 𐌹𐍃𐍄 𐌹𐌽 [[𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰]] 𐌾𐌰𐌷 𐌷𐌰𐌱𐌰𐌹𐌸 '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' 𐍃𐌴𐌹𐌳𐍉𐍃.</div>
+
+<!---------------------------------
+𐌷𐌰𐌿𐌱𐌹𐌳𐍉𐍄𐌰𐌱𐌿𐌻𐌰 1
+----------------------------------->
+{| style="border-spacing:0px;margin:0px 0px;width:100%"
+| style="border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+<!---------------------------------
+𐌺𐌿𐌽𐌾𐍉𐍃
+----------------------------------->
+! style="background-color: whitesmoke; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid lightgrey; text-align: left; padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_transp.gif]]</div><div style="margin: 0px auto; width: 100px;">[[image:Crystal Clear app password.png|16px|𐌺𐌿𐌽𐌾𐍉𐍃]] <big> '''𐌺𐌿𐌽𐌾𐍉𐍃''' </big>
 |-
-|width="45%" class="MainPageBG" style="vertical-align: top;"|
-<h3 style="background:#d1d0f5; border:1px solid #aea2cf; text-align: center; margin: 0px; padding:2px;">
-𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰
-</h3>
-<div style="border:1px solid #aea2cf; border-top:none; background:#f4f1fc;">
+| style="; font-family:Arial; font-size: 95%" | 
+<div class="𐌺𐌿𐌽𐌾𐍉𐍃" align="center">
+<big>'''[[:category:𐌰𐌹𐌽𐍉𐍃|𐌰𐌹𐌽𐍉𐍃]]''' | 
+'''[[:category:𐌴𐌻𐌴𐌺𐍄𐍂𐍉𐌽𐌴𐌹𐌺𐍃|𐌴𐌻𐌴𐌺𐍄𐍂𐍉𐌽𐌴𐌹𐌺𐍃]]''' | 
+'''[[:category:𐍂𐌴𐌹𐌺𐌹|𐍂𐌴𐌹𐌺𐌹]]''' | 
+'''[[:category:𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:category:𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:category:𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:category:𐌼𐌹𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌼𐌹𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:category:𐍃𐌿𐌽𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐍃𐌿𐌽𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:category:𐌰𐌿𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌰𐌿𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+</big>
+</div>
+|-
+|}
+|}
+<!---------------------------------
+𐌷𐌰𐌿𐌱𐌹𐌳𐌰𐍄𐌰𐌱𐌿𐌻𐌰 2
+----------------------------------->
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 42%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+<!---------------------------------
+𐌲𐌿𐍄𐌰𐌽𐍃
+----------------------------------->
+! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-variant: small-caps; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:center;"><big>[[𐌲𐌿𐍄𐌰𐌽𐍃]]</big>
+<div style="border:1px solid #aea2cf; font-size: 70%; border-top:none; background:#f4f1fc;">
 <div style="padding:6px;">
+
 [[image:Gizur and the Huns.jpg|center|350px]]
 
 '''You don't speak Gothic?''' [[:en:Gothic language|Gothic]] is an ancient eastern Germanic language spoken during the Dark Ages in Ukraine, Spain, Italy and Aquitaine. It is known through a translation of the Bible made in the IV<sup>th</sup> by bishop Wulfila.
@@ -51,53 +68,48 @@ Gothic is written in an alphabet of its own. You shall find fonts [[Wikipedia:Da
 
 </div>
 </div>
-
-
-<h3 style="background:#d1d0f5; border:1px solid #aea2cf; text-align: center; margin: 0px; padding:2px;">
-𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽 𐍃𐌴𐌹𐌳𐍉
-</h3>
-<div style="border:1px solid #aea2cf; background:#f4f1fc; border-top: none;">
-<div style="padding:6px;">
-<center>
-<inputbox>type=create
-width=20%
-buttonlabel=𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽
-break=no
-bgcolor=#f4f1fc
+|-
+<!---------------------------------
+meljan jah sokjan
+----------------------------------->
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Searchtool-80%.png|20px]] [[Special:search|𐍃𐌴𐌹𐌳𐍉𐌽 𐍃𐍉𐌺𐌾𐌰𐌽 𐌰𐌹𐌸𐌸𐌰𐌿 𐌼𐌴𐌻𐌾𐌰𐌽]]</div>
+|- 
+| style="font-family:Arial; font-size: 95%" | 
+|-
+| colspan="2"  style="text-align:center; padding-top:10px;" |
+<inputbox>
+type=search2
+buttonlabel=𐌳𐌿 𐍃𐌴𐌹𐌳𐍉𐌽 𐌲𐌰𐌲𐌲𐌰𐌽
+searchbuttonlabel=𐍆𐌿𐌻𐌻𐍄𐌴𐌺𐍃𐍄𐍃𐍉𐌺𐌴𐌹𐌽𐍃
+width=60
+bgcolor=#f8f8ff
+id=M
 </inputbox>
-</center>
-</div></div>
-|width="54.5%" class="MainPageBG" style="vertical-align: top;"|
-<h3 style="background:#ffe9a6; border:1px solid #dcbe73; border-bottom: none; text-align:center; margin: 0px; padding:2px;">
-𐍅𐌰𐌹𐍃𐍄 𐌸𐌿?
-</h3>
-<div style="border:1px solid #dcbe73; background:#fffbee; vertical-align:top;">
-<div style="padding:6px; margin-top: -12px;">
-* 𐌴𐌹 𐌸𐌰𐌹 [[𐌱𐌿𐍂𐌲𐌿𐌽𐌳𐍉𐍃‎]] 𐍃𐌹𐌽𐌳 𐌲𐌴𐍂𐌼𐌰𐌽𐌹𐍃𐌺𐌰 𐌸𐌹𐌿𐌳𐌰
+|- 
+|}
 
-* 𐌴𐌹 𐍃𐌰 𐌰𐍀𐌰𐌻𐌰𐌾𐌹𐍃𐌺𐌰 𐍂𐌰𐌶𐌳𐌰 𐍂𐍉𐌳𐌾𐌰𐌳𐌰 𐌹𐌽 [[𐌱𐍂𐌰𐌶𐌹𐌻|𐌱𐍂𐌰𐌶𐌹𐌻𐌰]]
-
-* 𐌴𐌹 [[𐌰𐌲𐌹𐌻𐌰 •𐌰•]] 𐍅𐌰𐍃 𐌸𐌹𐌿𐌳𐌰𐌽𐍃 𐌲𐌿𐍄𐌰𐌽𐌴
-
-* 𐌴𐌹 𐌸𐌰𐌹 [[𐍅𐌰𐌽𐌳𐌰𐌻𐍉𐍃]] 𐌰𐍆𐌽𐌴𐌼𐌿𐌽 [[𐍂𐌿𐌼𐌰]] 𐌹𐌽 410
-
-</div>
-</div>
-</div></div>
-
-
-{|width="54.5%" class="MainPageBG" style="vertical-align: top;"|
-<h3 style="background:#ffe9a6; border:1px solid #dcbe73; border-bottom: none; text-align:center; margin: 0px; padding:2px;">
-𐌷𐌹𐌼𐌼𐌰𐌳𐌰𐌲𐌹𐍃 𐍃𐌴𐌹𐌳𐌰
-</h3>
-<div style="border:1px solid #dcbe73; background:#fffbee; vertical-align:top;">
-<div style="padding:6px; margin-top: -12px;">
-
-
-[[Image:Gallaecia-suev.png|right|thumb|300px]]
-
+<!-------------------------------------
+right half
+---------------------------------------->
+|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"| <div style="margin: 4px 4px 2px 4px; text-align: left;">
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
+|-
+<!---------------------------------
+𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿
+----------------------------------->
+! style="background-color: #F0F3CD; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; font-variant: small-caps; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[image:wbar_green3.jpg]]</div><div style="float:left;">[[image:Nuvola apps ktip.png|22px|𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿]] [[Portal:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿|𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿]]</div>
+|-
+| style="font-family:Arial; font-size: 89%;" |
+{{𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿}}
+<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Portal:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿/𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃|𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃]] | <span class="plainlinks">[{{fullurl:Mal:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿|action=edit}} +])</span></span>
+|-
+<!---------------------------------
+other things
+----------------------------------->
+! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:left;">[[image:Crystal Clear app package network.png|20px|𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐍂𐌰𐌻𐌹𐍃𐌾𐍉𐍃]] [[𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐌲𐌰𐌻𐌹𐍃𐌾𐍉𐍃]]</div>
+|-
+| style="font-family:Arial; font-size: 110%" | [[Image:Gallaecia-suev.png|right|thumb|300px]]
 [[𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐌲𐌰𐌻𐌹𐍃𐌾𐍉𐍃]]
-
 
 𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐌲𐌰𐌻𐌹𐍃𐌾𐍉 𐍅𐌰𐍃 𐌸𐌰𐍄𐌰 𐍆𐍂𐌿𐌼𐌹𐍃𐍄𐍉 𐍂𐌴𐌹𐌺𐌹 𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽𐌰𐍄𐌰 𐌰𐍆 𐌲𐌴𐍂𐌼𐌰𐌽𐌹𐍃𐌺𐌰𐌹 𐌸𐌹𐌿𐌳𐌰𐌹 𐌹𐌽 𐌻𐌰𐌽𐌳𐌰𐌼 [[𐍂𐌴𐌹𐌺𐌹 𐍂𐍉𐌼𐌰𐌽𐌴]]. 𐍃𐌰𐍄𐌹𐌸𐌰𐍄𐌰 𐍅𐌰𐍃 𐌹𐌽 [[410]] 𐌾𐌰𐌲 𐍆𐍂𐌰𐌵𐌹𐍃𐍄𐌹𐌸𐌰𐍄𐌰 𐍅𐌰𐍃 𐌹𐌽 [[584]] 𐌰𐍆 [[𐍅𐌹𐍃𐌿𐌲𐌿𐍄𐌰𐌽𐍃|𐍅𐌹𐍃𐌿𐌲𐌿𐍄𐌰𐌼]]. 𐌼𐌹𐌽𐌽𐌹𐌶𐌰 𐌸𐌰𐌼𐌼𐌰 𐍅𐌹𐍃𐌿𐌲𐌿𐍄𐌰𐌽𐌴 𐌹𐍄𐌰 𐌽𐌹 𐌰𐌹𐍅 𐍅𐌰𐍃 𐌼𐌰𐌷𐍄𐌴𐌹𐌲.
 
@@ -109,29 +121,29 @@ bgcolor=#f4f1fc
 |}
 |}
 
-
-{|style="border-spacing:8px;margin:-8px -8px"
-|width="100%" style="border:1px solid #d0e5f5; background-color:#f1f5fc; vertical-align:top;"|
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f1f5fc;"
-! style="background-color:#d0e5f5; font-size:140%; border:1px solid #a6b4c5; text-align:left"  | 𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃 𐌹𐌽 𐌰𐌻𐌾𐌰𐌼 𐍂𐌰𐌶𐌳𐌰𐌼
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 120%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃 𐌹𐌽 𐌰𐌻𐌾𐌰𐌼 𐍂𐌰𐌶𐌳𐌰𐌼</div>
 |-
 |
 <div class="boilerplate metadata" id="lang-100000" font-size:95%;">
 {{razdos}}
 
-{| style="border-spacing:8px;margin: 0px -8px"
-|width="100%" style="border:1px solid #d0f5e5; background-color:#f1fcf5; vertical-align:top;"|
-|}
-{| width="100%" cellpadding="2" cellspacing="5" style="background-color:#f1fcf5;vertical-align:top;"
-! style="background-color:#d0f5e5; font-family: Arial, Helvetica, sans-serif; font-size:140%; border:1px solid #a6c4b5; text-align:left"  | 𐍅𐌰𐌿𐍂𐍃𐍄𐍅𐌰 𐍃𐍅𐌹𐍃𐍄𐍂𐌾𐌿𐍃 𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f1f5fc;"
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 120%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">𐍅𐌰𐌿𐍂𐍃𐍄𐍅𐌰 𐍃𐍅𐌹𐍃𐍄𐍂𐌾𐌿𐍃 𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃</div>
 |-
-|{{Wikipediaswistrjus}}
+|
+<div class="boilerplate metadata" id="lang-100000" font-size:95%;">
+{{Wikipediaswistrjus}}
 |}
 <br clear="all" />
 
 <div style="height: 8px;"></div>
 
-[[Category:𐍅𐌰𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰]]
+
+__NOTOC__ __NOEDITSECTION__
+
+
+[[Category:𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰]]
 {{latalph|𐌷𐌰𐌿𐌱𐌹𐌳𐌰𐍃𐌴𐌹𐌳𐍉|Haubidaseido}}
 {{runalph|𐌷𐌰𐌿𐌱𐌹𐌳𐌰𐍃𐌴𐌹𐌳𐍉|ᚺᚨᚢᛒᛁᛞᚨᛊᛖᛁᛞᛟ}}
 
