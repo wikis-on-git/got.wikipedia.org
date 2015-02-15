@@ -88,15 +88,15 @@ Gothic is written in an alphabet of its own. You will find fonts [[Wikipedia:Dal
 <!---------------------------------
 meljan jah sokjan
 ----------------------------------->
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Searchtool-80%.png|20px]] [[Special:search|𐍃𐌴𐌹𐌳𐍉𐌽 𐍃𐍉𐌺𐌾𐌰𐌽 𐌰𐌹𐌸𐌸𐌰𐌿 𐌼𐌴𐌻𐌾𐌰𐌽]]</div>
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Searchtool-80%.png|20px]] [[Special:search|𐍃𐌴𐌹𐌳𐌰 𐍃𐍉𐌺𐌾𐌰𐌽 𐌰𐌹𐌸𐌸𐌰𐌿 𐌼𐌴𐌻𐌾𐌰𐌽]]</div>
 |- 
 | style="font-family:Arial; font-size: 95%" | 
 |-
 | colspan="2"  style="text-align:center; padding-top:10px;" |
 <inputbox>
 type=search2
-buttonlabel=𐌳𐌿 𐍃𐌴𐌹𐌳𐍉𐌽 𐌲𐌰𐌲𐌲𐌰𐌽
-searchbuttonlabel=𐍆𐌿𐌻𐌻𐍄𐌴𐌺𐍃𐍄𐍃𐍉𐌺𐌴𐌹𐌽𐍃
+buttonlabel=𐌳𐌿 𐍃𐌴𐌹𐌳𐌰𐌹 𐌲𐌰𐌲𐌲𐌰𐌽
+searchbuttonlabel=𐌰𐌻𐌻𐌰𐌹𐌼 𐌱𐍉𐌺𐍉𐌼 𐍃𐍉𐌺𐌾𐌰𐌽
 width=60
 bgcolor=#f8f8ff
 id=M
