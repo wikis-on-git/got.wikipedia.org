@@ -1,290 +1,290 @@
-{| style="border-spacing:0px;margin:0px 0px;width:100%"
-| style="border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
-! style="background-color: whitesmoke; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid lightgrey; text-align: center; padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_transp.gif]]</div><div style="align: center;">[[image:Crystal Clear app package network.png|20px|This year's aim]] <big>This year's aim</big></div>
+{| 𐍃𐍄y𐌻𐌴="𐌱𐍉𐍂𐌳𐌴𐍂-𐍃𐍀𐌰c𐌹𐌽𐌲:0𐍀𐍇;𐌼𐌰𐍂𐌲𐌹𐌽:0𐍀𐍇 0𐍀𐍇;𐍅𐌹𐌳𐍄𐌷:100%"
+| 𐍃𐍄y𐌻𐌴="𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #c𐌴𐌳𐍆𐍆2; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #𐍆𐍆𐍆𐍆𐍆𐍆; v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽: 𐍄𐍉𐍀;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇" | 
+{| 𐍅𐌹𐌳𐍄𐌷="100%" c𐌴𐌻𐌻𐍀𐌰𐌳𐌳𐌹𐌽𐌲="2" c𐌴𐌻𐌻𐍃𐍀𐌰c𐌹𐌽𐌲="5" 𐍃𐍄y𐌻𐌴="v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽:𐍄𐍉𐍀; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆𐍆𐍆𐍆𐍆𐍆;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: 𐍅𐌷𐌹𐍄𐌴𐍃𐌼𐍉𐌺𐌴; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 85%; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 𐌻𐌹𐌲𐌷𐍄𐌲𐍂𐌴y; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: c𐌴𐌽𐍄𐌴𐍂; 𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇; -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐍄𐍂𐌰𐌽𐍃𐍀.𐌲𐌹𐍆]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐌰𐌻𐌹𐌲𐌽: c𐌴𐌽𐍄𐌴𐍂;">[[𐌹𐌼𐌰𐌲𐌴:c𐍂y𐍃𐍄𐌰𐌻 c𐌻𐌴𐌰𐍂 𐌰𐍀𐍀 𐍀𐌰c𐌺𐌰𐌲𐌴 𐌽𐌴𐍄𐍅𐍉𐍂𐌺.𐍀𐌽𐌲|20𐍀𐍇|𐍄𐌷𐌹𐍃 y𐌴𐌰𐍂'𐍃 𐌰𐌹𐌼]] <𐌱𐌹𐌲>{{𐌽𐍉c|𐍄𐌷𐌹𐍃 y𐌴𐌰𐍂'𐍃 𐌰𐌹𐌼}}</𐌱𐌹𐌲></𐌳𐌹v>
 |-
-| style="; font-family:Arial; font-size: 95%" | 
-<div class="This year's aim is" align="center">
-'''500 articles that do not need to be reviewed (<nowiki>{{𐌽𐌹𐌿𐌾𐌰𐌽}}</nowiki>): all having Gothic-script titles, being well categorized, and having been adapted to the transliteration system — all in addition to a completely revised dictionary.'''
-</div>
+| 𐍃𐍄y𐌻𐌴="; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:𐌰𐍂𐌹𐌰𐌻; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 95%" | 
+<𐌳𐌹v c𐌻𐌰𐍃𐍃="𐍄𐌷𐌹𐍃 y𐌴𐌰𐍂'𐍃 𐌰𐌹𐌼 𐌹𐍃" 𐌰𐌻𐌹𐌲𐌽="c𐌴𐌽𐍄𐌴𐍂">
+'''{{𐌽𐍉c|500 𐌰𐍂𐍄𐌹c𐌻𐌴𐍃 𐍄𐌷𐌰𐍄 𐌳𐍉 𐌽𐍉𐍄 𐌽𐌴𐌴𐌳 𐍄𐍉 𐌱𐌴 𐍂𐌴v𐌹𐌴𐍅𐌴𐌳 (<𐌽𐍉𐍅𐌹𐌺𐌹>{{𐌽𐌹𐌿𐌾𐌰𐌽}}</𐌽𐍉𐍅𐌹𐌺𐌹>): 𐌰𐌻𐌻 𐌷𐌰v𐌹𐌽𐌲 𐌲𐍉𐍄𐌷𐌹c-𐍃c𐍂𐌹𐍀𐍄 𐍄𐌹𐍄𐌻𐌴𐍃, 𐌱𐌴𐌹𐌽𐌲 𐍅𐌴𐌻𐌻 c𐌰𐍄𐌴𐌲𐍉𐍂𐌹𐌶𐌴𐌳, 𐌰𐌽𐌳 𐌷𐌰v𐌹𐌽𐌲 𐌱𐌴𐌴𐌽 𐌰𐌳𐌰𐍀𐍄𐌴𐌳 𐍄𐍉 𐍄𐌷𐌴 𐍄𐍂𐌰𐌽𐍃𐌻𐌹𐍄𐌴𐍂𐌰𐍄𐌹𐍉𐌽 𐍃y𐍃𐍄𐌴𐌼 — 𐌰𐌻𐌻 𐌹𐌽 𐌰𐌳𐌳𐌹𐍄𐌹𐍉𐌽 𐍄𐍉 𐌰 c𐍉𐌼𐍀𐌻𐌴𐍄𐌴𐌻y 𐍂𐌴v𐌹𐍃𐌴𐌳 𐌳𐌹c𐍄𐌹𐍉𐌽𐌰𐍂y.}}'''
+</𐌳𐌹v>
 |-
 |}
 |}
-{| id="mainpageintro" style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border:1px solid #ccc; background-repeat:no-repeat; background-position:1% 25%"
-| style="height:6.8em; width:50%"|
-{|style="width:280px; border:solid 0px; background-color:transparent"
+{| 𐌹𐌳="𐌼𐌰𐌹𐌽𐍀𐌰𐌲𐌴𐌹𐌽𐍄𐍂𐍉" 𐍃𐍄y𐌻𐌴="𐍅𐌹𐌳𐍄𐌷:100%; 𐌼𐌰𐍂𐌲𐌹𐌽-𐍄𐍉𐍀:+.7𐌴𐌼; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆c𐍆c𐍆c; 𐌱𐍉𐍂𐌳𐌴𐍂:1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #ccc; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-𐍂𐌴𐍀𐌴𐌰𐍄:𐌽𐍉-𐍂𐌴𐍀𐌴𐌰𐍄; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-𐍀𐍉𐍃𐌹𐍄𐌹𐍉𐌽:1% 25%"
+| 𐍃𐍄y𐌻𐌴="𐌷𐌴𐌹𐌲𐌷𐍄:6.8𐌴𐌼; 𐍅𐌹𐌳𐍄𐌷:50%"|
+{|𐍃𐍄y𐌻𐌴="𐍅𐌹𐌳𐍄𐌷:280𐍀𐍇; 𐌱𐍉𐍂𐌳𐌴𐍂:𐍃𐍉𐌻𐌹𐌳 0𐍀𐍇; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:𐍄𐍂𐌰𐌽𐍃𐍀𐌰𐍂𐌴𐌽𐍄"
 |-
-| style="width:280px; text-align:center; white-space:nowrap" |
-<div style="font-size:172%; padding:.1em">𐌷𐌰𐌹𐌻𐍃, 𐌰𐌻𐌻 𐌰𐌽𐌰 𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰𐌹</div>
-<div style="padding-top:0.1em; font-size:95%">𐍆𐍂𐌹𐌾𐍉𐌽𐍃 𐌲𐌿𐍄𐌹𐍃𐌺𐍉𐌽𐍃 𐍆𐍂𐍉𐌳𐌹𐌱𐍉𐌺𐍉𐍃.</div>
-<div style="padding-top:0.1em; font-weight:bold; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] 𐍃𐌴𐌹𐌳𐍉𐍃 𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰𐌹</div>
+| 𐍃𐍄y𐌻𐌴="𐍅𐌹𐌳𐍄𐌷:280𐍀𐍇; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽:c𐌴𐌽𐍄𐌴𐍂; 𐍅𐌷𐌹𐍄𐌴-𐍃𐍀𐌰c𐌴:𐌽𐍉𐍅𐍂𐌰𐍀" |
+<𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:172%; 𐍀𐌰𐌳𐌳𐌹𐌽𐌲:.1𐌴𐌼">𐌷𐌰𐌹𐌻𐍃, 𐌰𐌻𐌻 𐌰𐌽𐌰 𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰𐌹</𐌳𐌹v>
+<𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐍄𐍉𐍀:0.1𐌴𐌼; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:95%">𐍆𐍂𐌹𐌾𐍉𐌽𐍃 𐌲𐌿𐍄𐌹𐍃𐌺𐍉𐌽𐍃 𐍆𐍂𐍉𐌳𐌹𐌱𐍉𐌺𐍉𐍃.</𐌳𐌹v>
+<𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐍄𐍉𐍀:0.1𐌴𐌼; 𐍆𐍉𐌽𐍄-𐍅𐌴𐌹𐌲𐌷𐍄:𐌱𐍉𐌻𐌳; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:85%;">[[𐍃𐍀𐌴c𐌹𐌰𐌻:𐍃𐍄𐌰𐍄𐌹𐍃𐍄𐌹c𐍃|{{𐌽𐌿𐌼𐌱𐌴𐍂𐍉𐍆𐌰𐍂𐍄𐌹c𐌻𐌴𐍃}}]] 𐍃𐌴𐌹𐌳𐍉𐍃 𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰𐌹</𐌳𐌹v>
 |}
-|style="width:20%; font-size:100%"|
-* [[Portal:𐍅𐌰𐌿𐍂𐌳𐌰𐌱𐍉𐌺𐍉𐍃|𐍅𐌰𐌿𐍂𐌳𐌰𐌱𐍉𐌺𐍉𐍃]]<br/>
-* [[Help:Contents|𐌻𐌴𐌹𐍄𐌹𐌻𐌰 𐌷𐌹𐌻𐍀𐌰]]<br />
-* [[Wikipedia:𐌱𐌰𐌿𐍂𐌲𐍃 𐌲𐌰𐍅𐌹|𐌱𐌰𐌿𐍂𐌲𐌰𐌲𐌰𐍅𐌹]]<br />
-* [[Wikipedia:𐌻𐌴𐌹𐍃𐍄𐌰 𐍃𐌴𐌹𐌳𐍉 𐌸𐍉𐌶𐌴𐌹 𐌰𐌻𐌻𐍉𐍃 𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐍉𐍃 𐌷𐌰𐌱𐌰𐌹𐌽𐌰|𐍅𐌿𐌻𐌸𐍂𐍉𐍃 𐍃𐌴𐌹𐌳𐍉𐍃 𐌼𐌰𐌹𐌳𐌾𐌰𐌽]] <br />
-|style="width:20%; font-size:100%"|
-* [[Wikipedia:𐍂𐌰𐌶𐌳𐌰𐌲𐌰𐍂𐌿𐌽𐌹|𐍂𐌰𐌶𐌳𐌰𐌲𐌰𐍂𐌿𐌽𐌹]] <br />
-* [[Wikipedia:𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰 𐍅𐌰𐌿𐍂𐌳𐌰|𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰 𐍅𐌰𐌿𐍂𐌳𐌰]] <br />
-* [[Wikipedia:𐌱𐌰𐌿𐍂𐌲𐍃 𐌱𐍂𐌿𐌽𐌽𐌰|𐌱𐌰𐌿𐍂𐌲𐍃 𐌱𐍂𐌿𐌽𐌽𐌰]] <br />
-* [[Wikipedia:𐍆𐌰𐌿𐍂𐌰𐌼𐌴𐌻𐌴𐌹𐌽𐍉𐍃|𐍆𐌰𐌿𐍂𐌰𐌼𐌴𐌻𐌴𐌹𐌽𐍉𐍃]] <br />
+|𐍃𐍄y𐌻𐌴="𐍅𐌹𐌳𐍄𐌷:20%; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:100%"|
+* [[𐍀𐍉𐍂𐍄𐌰𐌻:𐍅𐌰𐌿𐍂𐌳𐌰𐌱𐍉𐌺𐍉𐍃|𐍅𐌰𐌿𐍂𐌳𐌰𐌱𐍉𐌺𐍉𐍃]]<𐌱𐍂/>
+* [[𐌷𐌴𐌻𐍀:c𐍉𐌽𐍄𐌴𐌽𐍄𐍃|𐌻𐌴𐌹𐍄𐌹𐌻𐌰 𐌷𐌹𐌻𐍀𐌰]]<𐌱𐍂 />
+* [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐌱𐌰𐌿𐍂𐌲𐍃 𐌲𐌰𐍅𐌹|𐌱𐌰𐌿𐍂𐌲𐌰𐌲𐌰𐍅𐌹]]<𐌱𐍂 />
+* [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐌻𐌴𐌹𐍃𐍄𐌰 𐍃𐌴𐌹𐌳𐍉 𐌸𐍉𐌶𐌴𐌹 𐌰𐌻𐌻𐍉𐍃 𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐍉𐍃 𐌷𐌰𐌱𐌰𐌹𐌽𐌰|𐍅𐌿𐌻𐌸𐍂𐍉𐍃 𐍃𐌴𐌹𐌳𐍉𐍃 𐌼𐌰𐌹𐌳𐌾𐌰𐌽]] <𐌱𐍂 />
+|𐍃𐍄y𐌻𐌴="𐍅𐌹𐌳𐍄𐌷:20%; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:100%"|
+* [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐍂𐌰𐌶𐌳𐌰𐌲𐌰𐍂𐌿𐌽𐌹|𐍂𐌰𐌶𐌳𐌰𐌲𐌰𐍂𐌿𐌽𐌹]] <𐌱𐍂 />
+* [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰 𐍅𐌰𐌿𐍂𐌳𐌰|𐌰𐌻𐌾𐌰𐌺𐌿𐌽𐌾𐌰 𐍅𐌰𐌿𐍂𐌳𐌰]] <𐌱𐍂 />
+* [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐌱𐌰𐌿𐍂𐌲𐍃 𐌱𐍂𐌿𐌽𐌽𐌰|𐌱𐌰𐌿𐍂𐌲𐍃 𐌱𐍂𐌿𐌽𐌽𐌰]] <𐌱𐍂 />
+* [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐍆𐌰𐌿𐍂𐌰𐌼𐌴𐌻𐌴𐌹𐌽𐍉𐍃|𐍆𐌰𐌿𐍂𐌰𐌼𐌴𐌻𐌴𐌹𐌽𐍉𐍃]] <𐌱𐍂 />
 |}
 
-<div style="margin-top:1em; margin-bottom:1em; font-size:110%;">𐍅𐌰𐌹𐌻𐌰 𐌰𐌽𐌳𐌰𐌽𐌴𐌼 𐍃𐌹𐌾𐌰𐌹𐍃 𐌰𐌽𐌰 𐌲𐌿𐍄𐌹𐍃𐌺𐍉𐌽 𐌿𐍃𐌼𐌴𐍂𐌾𐌰 [[𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰|𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐍉𐍃]], 𐍆𐍂𐍉𐌳𐌹𐌱𐍉𐌺𐍉𐍃 𐌹𐌽 𐌸𐌰𐌼𐌼𐌰 𐌽𐌰𐍄𐌾𐌰, 𐌸𐌰𐍂𐌴𐌹 𐍈𐌰𐍂𐌾𐌹𐍃 𐌼𐌰𐌲 𐌼𐌹𐌸𐌰𐍂𐌱𐌰𐌹𐌳𐌾𐌰𐌽. 𐍃𐍉 𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰 [[𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰|𐌲𐌿𐍄𐍂𐌰𐌶𐌳𐌰𐌹]] 𐌹𐍃𐍄 𐌾𐌰𐌷 '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' 𐍃𐌴𐌹𐌳𐍉𐍃 𐌷𐌰𐌱𐌰𐌹𐌸.</div>
+<𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐌼𐌰𐍂𐌲𐌹𐌽-𐍄𐍉𐍀:1𐌴𐌼; 𐌼𐌰𐍂𐌲𐌹𐌽-𐌱𐍉𐍄𐍄𐍉𐌼:1𐌴𐌼; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:110%;">𐍅𐌰𐌹𐌻𐌰 𐌰𐌽𐌳𐌰𐌽𐌴𐌼 𐍃𐌹𐌾𐌰𐌹𐍃 𐌰𐌽𐌰 𐌲𐌿𐍄𐌹𐍃𐌺𐍉𐌽 𐌿𐍃𐌼𐌴𐍂𐌾𐌰 [[𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰|𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐍉𐍃]], 𐍆𐍂𐍉𐌳𐌹𐌱𐍉𐌺𐍉𐍃 𐌹𐌽 𐌸𐌰𐌼𐌼𐌰 𐌽𐌰𐍄𐌾𐌰, 𐌸𐌰𐍂𐌴𐌹 𐍈𐌰𐍂𐌾𐌹𐍃 𐌼𐌰𐌲 𐌼𐌹𐌸𐌰𐍂𐌱𐌰𐌹𐌳𐌾𐌰𐌽. 𐍃𐍉 𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰 [[𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰|𐌲𐌿𐍄𐍂𐌰𐌶𐌳𐌰𐌹]] 𐌹𐍃𐍄 𐌾𐌰𐌷 '''[[𐍃𐍀𐌴c𐌹𐌰𐌻:𐍃𐍄𐌰𐍄𐌹𐍃𐍄𐌹c𐍃|{{𐌽𐌿𐌼𐌱𐌴𐍂𐍉𐍆𐌰𐍂𐍄𐌹c𐌻𐌴𐍃}}]]''' 𐍃𐌴𐌹𐌳𐍉𐍃 𐌷𐌰𐌱𐌰𐌹𐌸.</𐌳𐌹v>
 
 <!---------------------------------
 𐌷𐌰𐌿𐌱𐌹𐌳𐍉𐍄𐌰𐌱𐌿𐌻𐌰 1
 ----------------------------------->
-{| style="border-spacing:0px;margin:0px 0px;width:100%"
-| style="border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+{| 𐍃𐍄y𐌻𐌴="𐌱𐍉𐍂𐌳𐌴𐍂-𐍃𐍀𐌰c𐌹𐌽𐌲:0𐍀𐍇;𐌼𐌰𐍂𐌲𐌹𐌽:0𐍀𐍇 0𐍀𐍇;𐍅𐌹𐌳𐍄𐌷:100%"
+| 𐍃𐍄y𐌻𐌴="𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #c𐌴𐌳𐍆𐍆2; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #𐍆𐍆𐍆𐍆𐍆𐍆; v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽: 𐍄𐍉𐍀;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇" | 
+{| 𐍅𐌹𐌳𐍄𐌷="100%" c𐌴𐌻𐌻𐍀𐌰𐌳𐌳𐌹𐌽𐌲="2" c𐌴𐌻𐌻𐍃𐍀𐌰c𐌹𐌽𐌲="5" 𐍃𐍄y𐌻𐌴="v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽:𐍄𐍉𐍀; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆𐍆𐍆𐍆𐍆𐍆;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"
 <!---------------------------------
 𐌺𐌿𐌽𐌾𐍉𐍃
 ----------------------------------->
-! style="background-color: whitesmoke; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid lightgrey; text-align: left; padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_transp.gif]]</div><div style="margin: 0px auto; width: 100px;">[[image:Crystal Clear app password.png|16px|𐌺𐌿𐌽𐌾𐍉𐍃]] <big> '''𐌺𐌿𐌽𐌾𐍉𐍃''' </big>
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: 𐍅𐌷𐌹𐍄𐌴𐍃𐌼𐍉𐌺𐌴; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 85%; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 𐌻𐌹𐌲𐌷𐍄𐌲𐍂𐌴y; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄; 𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇; -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐍄𐍂𐌰𐌽𐍃𐍀.𐌲𐌹𐍆]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐌼𐌰𐍂𐌲𐌹𐌽: 0𐍀𐍇 𐌰𐌿𐍄𐍉; 𐍅𐌹𐌳𐍄𐌷: 100𐍀𐍇;">[[𐌹𐌼𐌰𐌲𐌴:c𐍂y𐍃𐍄𐌰𐌻 c𐌻𐌴𐌰𐍂 𐌰𐍀𐍀 𐍀𐌰𐍃𐍃𐍅𐍉𐍂𐌳.𐍀𐌽𐌲|16𐍀𐍇|𐌺𐌿𐌽𐌾𐍉𐍃]] <𐌱𐌹𐌲> '''𐌺𐌿𐌽𐌾𐍉𐍃''' </𐌱𐌹𐌲>
 |-
-| style="; font-family:Arial; font-size: 95%" | 
-<div class="𐌺𐌿𐌽𐌾𐍉𐍃" align="center">
-<big>'''[[:category:𐌰𐌹𐌽𐍉𐍃|𐌰𐌹𐌽𐍉𐍃]]''' | 
-'''[[:category:𐌴𐌻𐌴𐌺𐍄𐍂𐍉𐌽𐌴𐌹𐌺𐍃|𐌴𐌻𐌴𐌺𐍄𐍂𐍉𐌽𐌴𐌹𐌺𐍃]]''' | 
-'''[[:category:𐍂𐌴𐌹𐌺𐌹|𐍂𐌴𐌹𐌺𐌹]]''' | 
-'''[[:category:𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
-'''[[:category:𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
-'''[[:category:𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
-'''[[:category:𐌼𐌹𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌼𐌹𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
-'''[[:category:𐍃𐌿𐌽𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐍃𐌿𐌽𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
-'''[[:category:𐌰𐌿𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌰𐌿𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
-</big>
-</div>
+| 𐍃𐍄y𐌻𐌴="; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:𐌰𐍂𐌹𐌰𐌻; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 95%" | 
+<𐌳𐌹v c𐌻𐌰𐍃𐍃="𐌺𐌿𐌽𐌾𐍉𐍃" 𐌰𐌻𐌹𐌲𐌽="c𐌴𐌽𐍄𐌴𐍂">
+<𐌱𐌹𐌲>'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐌰𐌹𐌽𐍉𐍃|𐌰𐌹𐌽𐍉𐍃]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐌴𐌻𐌴𐌺𐍄𐍂𐍉𐌽𐌴𐌹𐌺𐍃|𐌴𐌻𐌴𐌺𐍄𐍂𐍉𐌽𐌴𐌹𐌺𐍃]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐍂𐌴𐌹𐌺𐌹|𐍂𐌴𐌹𐌺𐌹]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌽𐌰𐌿𐍂𐌸𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐍅𐌹𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐌼𐌹𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌼𐌹𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐍃𐌿𐌽𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐍃𐌿𐌽𐌸𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+'''[[:c𐌰𐍄𐌴𐌲𐍉𐍂y:𐌰𐌿𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰|𐌰𐌿𐍃𐍄𐍂𐌰 𐌰𐌹𐍅𐍂𐍉𐍀𐌰]]''' | 
+</𐌱𐌹𐌲>
+</𐌳𐌹v>
 |-
 |}
 |}
 <!---------------------------------
 𐌷𐌰𐌿𐌱𐌹𐌳𐌰𐍄𐌰𐌱𐌿𐌻𐌰 2
 ----------------------------------->
-{| style="border-spacing:8px;margin:0px -8px"
-|class="MainPageBG" style="width: 42%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+{| 𐍃𐍄y𐌻𐌴="𐌱𐍉𐍂𐌳𐌴𐍂-𐍃𐍀𐌰c𐌹𐌽𐌲:8𐍀𐍇;𐌼𐌰𐍂𐌲𐌹𐌽:0𐍀𐍇 -8𐍀𐍇"
+|c𐌻𐌰𐍃𐍃="𐌼𐌰𐌹𐌽𐍀𐌰𐌲𐌴𐌱𐌲" 𐍃𐍄y𐌻𐌴="𐍅𐌹𐌳𐍄𐌷: 42%; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #c𐌴𐌳𐍆𐍆2; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #𐍆𐍆𐍆𐍆𐍆𐍆; v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽: 𐍄𐍉𐍀;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇" | 
+{| 𐍅𐌹𐌳𐍄𐌷="100%" c𐌴𐌻𐌻𐍀𐌰𐌳𐌳𐌹𐌽𐌲="2" c𐌴𐌻𐌻𐍃𐍀𐌰c𐌹𐌽𐌲="5" 𐍃𐍄y𐌻𐌴="v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽:𐍄𐍉𐍀; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆𐍆𐍆𐍆𐍆𐍆;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"
 <!---------------------------------
 𐌲𐌿𐍄𐌰𐌽𐍃
 ----------------------------------->
-! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-variant: small-caps; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:center;"><big>[[𐌲𐌿𐍄𐌰𐌽𐍃]]</big>
-<div style="border:1px solid #aea2cf; font-size: 70%; border-top:none; background:#f4f1fc;">
-<div style="padding:6px;">
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #c𐌴𐌳𐍆𐍆2; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #𐌱1c𐌳𐌴𐌱; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄;  𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇;   -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐌱𐌻𐌿𐌴.𐌾𐍀𐌲]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:c𐌴𐌽𐍄𐌴𐍂;"><𐌱𐌹𐌲>[[𐌲𐌿𐍄𐌰𐌽𐍃]]</𐌱𐌹𐌲>
+<𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐌱𐍉𐍂𐌳𐌴𐍂:1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #𐌰𐌴𐌰2c𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 70%; 𐌱𐍉𐍂𐌳𐌴𐍂-𐍄𐍉𐍀:𐌽𐍉𐌽𐌴; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳:#𐍆4𐍆1𐍆c;">
+<𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍀𐌰𐌳𐌳𐌹𐌽𐌲:6𐍀𐍇;">
 
-[[image:Gizur and the Huns.jpg|center|350px]]
+[[𐌹𐌼𐌰𐌲𐌴:𐌲𐌹𐌶𐌿𐍂 𐌰𐌽𐌳 𐍄𐌷𐌴 𐌷𐌿𐌽𐍃.𐌾𐍀𐌲|c𐌴𐌽𐍄𐌴𐍂|350𐍀𐍇]]
 
-'''Only see squares? Download this font: [http://www.fontspace.com/robert-pfeffer/ulfilas Ulfilas (by Robert Pfeffer)].'''
+{{𐌽𐍉c|'''𐍉𐌽𐌻y 𐍃𐌴𐌴 𐍃𐌵𐌿𐌰𐍂𐌴𐍃? 𐌳𐍉𐍅𐌽𐌻𐍉𐌰𐌳 𐍄𐌷𐌹𐍃 𐍆𐍉𐌽𐍄: [𐌷𐍄𐍄𐍀://𐍅𐍅𐍅.𐍆𐍉𐌽𐍄𐍃𐍀𐌰c𐌴.c𐍉𐌼/𐍂𐍉𐌱𐌴𐍂𐍄-𐍀𐍆𐌴𐍆𐍆𐌴𐍂/𐌿𐌻𐍆𐌹𐌻𐌰𐍃 𐌿𐌻𐍆𐌹𐌻𐌰𐍃 (𐌱y 𐍂𐍉𐌱𐌴𐍂𐍄 𐍀𐍆𐌴𐍆𐍆𐌴𐍂)].'''
 
-'''Don't speak Gothic? [[:en:Gothic language|Gothic]] is an ancient East Germanic language spoken during the Dark Ages in Ukraine, Spain, Italy, and Aquitaine. It is the oldest Germanic language which we have a lot of knowledge of, and its vocabulary is highly similar to that of [[:en:Old English|Old English]]. It is mostly known through a translation of the Bible made in the 4th century by Wulfila, an Ostrogothic bishop, but there are other writings in Gothic, such as a calendar, some records of financial transactions, and an explanation of the Bible known as the "[[:en:Skeireins|Skeireins]]". The Skeireins is most likely written in native Gothic, and so it has a more complex structure than the Gothic Bible. Gothic is no longer spoken, and it has no descendants, but it can still be seen in Spanish, with words like "ganso" (goose), and in "Bagme Bloma", a poem by J.R.R Tolkien written in a reconstructed form of Gothic.
+'''𐌳𐍉𐌽'𐍄 𐍃𐍀𐌴𐌰𐌺 𐌲𐍉𐍄𐌷𐌹c? [[:𐌴𐌽:𐌲𐍉𐍄𐌷𐌹c 𐌻𐌰𐌽𐌲𐌿𐌰𐌲𐌴|𐌲𐍉𐍄𐌷𐌹c]] 𐌹𐍃 𐌰𐌽 𐌰𐌽c𐌹𐌴𐌽𐍄 𐌴𐌰𐍃𐍄 𐌲𐌴𐍂𐌼𐌰𐌽𐌹c 𐌻𐌰𐌽𐌲𐌿𐌰𐌲𐌴 𐍃𐍀𐍉𐌺𐌴𐌽 𐌳𐌿𐍂𐌹𐌽𐌲 𐍄𐌷𐌴 𐌳𐌰𐍂𐌺 𐌰𐌲𐌴𐍃 𐌹𐌽 𐌿𐌺𐍂𐌰𐌹𐌽𐌴, 𐍃𐍀𐌰𐌹𐌽, 𐌹𐍄𐌰𐌻y, 𐌰𐌽𐌳 𐌰𐌵𐌿𐌹𐍄𐌰𐌹𐌽𐌴. 𐌹𐍄 𐌹𐍃 𐍄𐌷𐌴 𐍉𐌻𐌳𐌴𐍃𐍄 𐌲𐌴𐍂𐌼𐌰𐌽𐌹c 𐌻𐌰𐌽𐌲𐌿𐌰𐌲𐌴 𐍅𐌷𐌹c𐌷 𐍅𐌴 𐌷𐌰v𐌴 𐌰 𐌻𐍉𐍄 𐍉𐍆 𐌺𐌽𐍉𐍅𐌻𐌴𐌳𐌲𐌴 𐍉𐍆, 𐌰𐌽𐌳 𐌹𐍄𐍃 v𐍉c𐌰𐌱𐌿𐌻𐌰𐍂y 𐌹𐍃 𐌷𐌹𐌲𐌷𐌻y 𐍃𐌹𐌼𐌹𐌻𐌰𐍂 𐍄𐍉 𐍄𐌷𐌰𐍄 𐍉𐍆 [[:𐌴𐌽:𐍉𐌻𐌳 𐌴𐌽𐌲𐌻𐌹𐍃𐌷|𐍉𐌻𐌳 𐌴𐌽𐌲𐌻𐌹𐍃𐌷]]. 𐌹𐍄 𐌹𐍃 𐌼𐍉𐍃𐍄𐌻y 𐌺𐌽𐍉𐍅𐌽 𐍄𐌷𐍂𐍉𐌿𐌲𐌷 𐌰 𐍄𐍂𐌰𐌽𐍃𐌻𐌰𐍄𐌹𐍉𐌽 𐍉𐍆 𐍄𐌷𐌴 𐌱𐌹𐌱𐌻𐌴 𐌼𐌰𐌳𐌴 𐌹𐌽 𐍄𐌷𐌴 4𐍄𐌷 c𐌴𐌽𐍄𐌿𐍂y 𐌱y 𐍅𐌿𐌻𐍆𐌹𐌻𐌰, 𐌰𐌽 𐍉𐍃𐍄𐍂𐍉𐌲𐍉𐍄𐌷𐌹c 𐌱𐌹𐍃𐌷𐍉𐍀, 𐌱𐌿𐍄 𐍄𐌷𐌴𐍂𐌴 𐌰𐍂𐌴 𐍉𐍄𐌷𐌴𐍂 𐍅𐍂𐌹𐍄𐌹𐌽𐌲𐍃 𐌹𐌽 𐌲𐍉𐍄𐌷𐌹c, 𐍃𐌿c𐌷 𐌰𐍃 𐌰 c𐌰𐌻𐌴𐌽𐌳𐌰𐍂, 𐍃𐍉𐌼𐌴 𐍂𐌴c𐍉𐍂𐌳𐍃 𐍉𐍆 𐍆𐌹𐌽𐌰𐌽c𐌹𐌰𐌻 𐍄𐍂𐌰𐌽𐍃𐌰c𐍄𐌹𐍉𐌽𐍃, 𐌰𐌽𐌳 𐌰𐌽 𐌴𐍇𐍀𐌻𐌰𐌽𐌰𐍄𐌹𐍉𐌽 𐍉𐍆 𐍄𐌷𐌴 𐌱𐌹𐌱𐌻𐌴 𐌺𐌽𐍉𐍅𐌽 𐌰𐍃 𐍄𐌷𐌴 "[[:𐌴𐌽:𐍃𐌺𐌴𐌹𐍂𐌴𐌹𐌽𐍃|𐍃𐌺𐌴𐌹𐍂𐌴𐌹𐌽𐍃]]". 𐍄𐌷𐌴 𐍃𐌺𐌴𐌹𐍂𐌴𐌹𐌽𐍃 𐌹𐍃 𐌼𐍉𐍃𐍄 𐌻𐌹𐌺𐌴𐌻y 𐍅𐍂𐌹𐍄𐍄𐌴𐌽 𐌹𐌽 𐌽𐌰𐍄𐌹v𐌴 𐌲𐍉𐍄𐌷𐌹c, 𐌰𐌽𐌳 𐍃𐍉 𐌹𐍄 𐌷𐌰𐍃 𐌰 𐌼𐍉𐍂𐌴 c𐍉𐌼𐍀𐌻𐌴𐍇 𐍃𐍄𐍂𐌿c𐍄𐌿𐍂𐌴 𐍄𐌷𐌰𐌽 𐍄𐌷𐌴 𐌲𐍉𐍄𐌷𐌹c 𐌱𐌹𐌱𐌻𐌴. 𐌲𐍉𐍄𐌷𐌹c 𐌹𐍃 𐌽𐍉 𐌻𐍉𐌽𐌲𐌴𐍂 𐍃𐍀𐍉𐌺𐌴𐌽, 𐌰𐌽𐌳 𐌹𐍄 𐌷𐌰𐍃 𐌽𐍉 𐌳𐌴𐍃c𐌴𐌽𐌳𐌰𐌽𐍄𐍃, 𐌱𐌿𐍄 𐌹𐍄 c𐌰𐌽 𐍃𐍄𐌹𐌻𐌻 𐌱𐌴 𐍃𐌴𐌴𐌽 𐌹𐌽 𐍃𐍀𐌰𐌽𐌹𐍃𐌷, 𐍅𐌹𐍄𐌷 𐍅𐍉𐍂𐌳𐍃 𐌻𐌹𐌺𐌴 "𐌲𐌰𐌽𐍃𐍉" (𐌲𐍉𐍉𐍃𐌴), 𐌰𐌽𐌳 𐌹𐌽 "𐌱𐌰𐌲𐌼𐌴 𐌱𐌻𐍉𐌼𐌰", 𐌰 𐍀𐍉𐌴𐌼 𐌱y 𐌾.𐍂.𐍂 𐍄𐍉𐌻𐌺𐌹𐌴𐌽 𐍅𐍂𐌹𐍄𐍄𐌴𐌽 𐌹𐌽 𐌰 𐍂𐌴c𐍉𐌽𐍃𐍄𐍂𐌿c𐍄𐌴𐌳 𐍆𐍉𐍂𐌼 𐍉𐍆 𐌲𐍉𐍄𐌷𐌹c.
 
-Gothic is written in an alphabet of its own. You will find fonts [[Wikipedia:Dalahlaþan gutiska meljanboka|here]], keyboard help [[Wikipedia:Gutisk bokabaurd|here]], and transliteration rules [[Wikipedia:Alja-Kuns Waurds|here]].'''
+𐌲𐍉𐍄𐌷𐌹c 𐌹𐍃 𐍅𐍂𐌹𐍄𐍄𐌴𐌽 𐌹𐌽 𐌰𐌽 𐌰𐌻𐍀𐌷𐌰𐌱𐌴𐍄 𐍉𐍆 𐌹𐍄𐍃 𐍉𐍅𐌽. y𐍉𐌿 𐍅𐌹𐌻𐌻 𐍆𐌹𐌽𐌳 𐍆𐍉𐌽𐍄𐍃 [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐌳𐌰𐌻𐌰𐌷𐌻𐌰𐌸𐌰𐌽 𐌲𐌿𐍄𐌹𐍃𐌺𐌰 𐌼𐌴𐌻𐌾𐌰𐌽𐌱𐍉𐌺𐌰|𐌷𐌴𐍂𐌴]], 𐌺𐌴y𐌱𐍉𐌰𐍂𐌳 𐌷𐌴𐌻𐍀 [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐌲𐌿𐍄𐌹𐍃𐌺 𐌱𐍉𐌺𐌰𐌱𐌰𐌿𐍂𐌳|𐌷𐌴𐍂𐌴]], 𐌰𐌽𐌳 𐍄𐍂𐌰𐌽𐍃𐌻𐌹𐍄𐌴𐍂𐌰𐍄𐌹𐍉𐌽 𐍂𐌿𐌻𐌴𐍃 [[𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰:𐌰𐌻𐌾𐌰-𐌺𐌿𐌽𐍃 𐍅𐌰𐌿𐍂𐌳𐍃|𐌷𐌴𐍂𐌴]].'''}}
 
 
-</div>
-</div>
+</𐌳𐌹v>
+</𐌳𐌹v>
 |-
 <!---------------------------------
-meljan jah sokjan
+𐌼𐌴𐌻𐌾𐌰𐌽 𐌾𐌰𐌷 𐍃𐍉𐌺𐌾𐌰𐌽
 ----------------------------------->
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Searchtool-80%.png|20px]] [[Special:search|𐍃𐌴𐌹𐌳𐌰 𐍃𐍉𐌺𐌾𐌰𐌽 𐌰𐌹𐌸𐌸𐌰𐌿 𐌼𐌴𐌻𐌾𐌰𐌽]]</div>
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #cc𐌳5𐍆4; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 100%; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #𐌱𐌱𐌱𐌱𐍆𐍆; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄;  𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐍀𐌿𐍂𐍀𐌻𐌴.𐌾𐍀𐌲]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐌻𐌴𐍆𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍃𐌴𐌰𐍂c𐌷𐍄𐍉𐍉𐌻-80%.𐍀𐌽𐌲|20𐍀𐍇]] [[𐍃𐍀𐌴c𐌹𐌰𐌻:𐍃𐌴𐌰𐍂c𐌷|𐍃𐌴𐌹𐌳𐌰 𐍃𐍉𐌺𐌾𐌰𐌽 𐌰𐌹𐌸𐌸𐌰𐌿 𐌼𐌴𐌻𐌾𐌰𐌽]]</𐌳𐌹v>
 |- 
-| style="font-family:Arial; font-size: 95%" | 
+| 𐍃𐍄y𐌻𐌴="𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:𐌰𐍂𐌹𐌰𐌻; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 95%" | 
 |-
-| colspan="2"  style="text-align:center; padding-top:10px;" |
-<inputbox>
-type=search2
-buttonlabel=𐌳𐌿 𐍃𐌴𐌹𐌳𐌰𐌹 𐌲𐌰𐌲𐌲𐌰𐌽
-searchbuttonlabel=𐌰𐌻𐌻𐌰𐌹𐌼 𐌱𐍉𐌺𐍉𐌼 𐍃𐍉𐌺𐌾𐌰𐌽
-width=60
-bgcolor=#f8f8ff
-id=M
-</inputbox>
+| c𐍉𐌻𐍃𐍀𐌰𐌽="2"  𐍃𐍄y𐌻𐌴="𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽:c𐌴𐌽𐍄𐌴𐍂; 𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐍄𐍉𐍀:10𐍀𐍇;" |
+<𐌹𐌽𐍀𐌿𐍄𐌱𐍉𐍇>
+𐍄y𐍀𐌴=𐍃𐌴𐌰𐍂c𐌷2
+𐌱𐌿𐍄𐍄𐍉𐌽𐌻𐌰𐌱𐌴𐌻=𐌳𐌿 𐍃𐌴𐌹𐌳𐌰𐌹 𐌲𐌰𐌲𐌲𐌰𐌽
+𐍃𐌴𐌰𐍂c𐌷𐌱𐌿𐍄𐍄𐍉𐌽𐌻𐌰𐌱𐌴𐌻=𐌰𐌻𐌻𐌰𐌹𐌼 𐌱𐍉𐌺𐍉𐌼 𐍃𐍉𐌺𐌾𐌰𐌽
+𐍅𐌹𐌳𐍄𐌷=60
+𐌱𐌲c𐍉𐌻𐍉𐍂=#𐍆8𐍆8𐍆𐍆
+𐌹𐌳=𐌼
+</𐌹𐌽𐍀𐌿𐍄𐌱𐍉𐍇>
 |- 
 |}
 
 <!-------------------------------------
-right half
+𐍂𐌹𐌲𐌷𐍄 𐌷𐌰𐌻𐍆
 ---------------------------------------->
-|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"| <div style="margin: 4px 4px 2px 4px; text-align: left;">
-{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
+|c𐌻𐌰𐍃𐍃="𐌼𐌰𐌹𐌽𐍀𐌰𐌲𐌴𐌱𐌲" 𐍃𐍄y𐌻𐌴="𐌱𐍉𐍂𐌳𐌴𐍂:1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #c𐌴𐌳𐍆𐍆2; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆𐍆𐍆𐍆𐍆𐍆; v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽:𐍄𐍉𐍀; -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"| <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐌼𐌰𐍂𐌲𐌹𐌽: 4𐍀𐍇 4𐍀𐍇 2𐍀𐍇 4𐍀𐍇; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄;">
+{| 𐍅𐌹𐌳𐍄𐌷="100%" c𐌴𐌻𐌻𐍀𐌰𐌳𐌳𐌹𐌽𐌲="2" c𐌴𐌻𐌻𐍃𐍀𐌰c𐌹𐌽𐌲="3" 𐍃𐍄y𐌻𐌴="v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽: 𐍄𐍉𐍀; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆𐍆𐍆𐍆𐍆𐍆; -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇;"
 |-
 <!---------------------------------
 𐍅𐌹𐍃𐍃𐌴𐍃
 ----------------------------------->
-! style="background-color: #F0F3CD; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; font-variant: small-caps; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[image:wbar_green3.jpg]]</div><div style="float:left;">[[image:Nuvola apps ktip.png|22px|𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿]] [[Portal:𐍅𐌹𐍃𐍃𐌴𐍃|𐍅𐌹𐍃𐍃𐌴𐍃]]</div>
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #𐍆0𐍆3c𐌳; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y: v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 100%; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #𐌳𐌳𐌳𐌳𐌰4; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄;  𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇; -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐌲𐍂𐌴𐌴𐌽3.𐌾𐍀𐌲]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐌻𐌴𐍆𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐌽𐌿v𐍉𐌻𐌰 𐌰𐍀𐍀𐍃 𐌺𐍄𐌹𐍀.𐍀𐌽𐌲|22𐍀𐍇|𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿]] [[𐍀𐍉𐍂𐍄𐌰𐌻:𐍅𐌹𐍃𐍃𐌴𐍃|𐍅𐌹𐍃𐍃𐌴𐍃]]</𐌳𐌹v>
 |-
-| style="font-family:Arial; font-size: 89%;" |
+| 𐍃𐍄y𐌻𐌴="𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:𐌰𐍂𐌹𐌰𐌻; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 89%;" |
 {{𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿}}
-<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Portal:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿/𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃|𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃]] | <span class="plainlinks">[{{fullurl:Portal:𐍅𐌹𐍃𐍃𐌴𐍃|action=edit}} +])</span></span>
+<𐍃𐍀𐌰𐌽 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:𐌰𐍂𐌹𐌰𐌻; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 85%; 𐍀𐌰𐌳𐌳𐌹𐌽𐌲:0 .5𐌴𐌼 0 2𐌴𐌼">([[𐍀𐍉𐍂𐍄𐌰𐌻:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿/𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃|𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃]] | <𐍃𐍀𐌰𐌽 c𐌻𐌰𐍃𐍃="𐍀𐌻𐌰𐌹𐌽𐌻𐌹𐌽𐌺𐍃">[{{𐍆𐌿𐌻𐌻𐌿𐍂𐌻:𐍀𐍉𐍂𐍄𐌰𐌻:𐍅𐌹𐍃𐍃𐌴𐍃|𐌰c𐍄𐌹𐍉𐌽=𐌴𐌳𐌹𐍄}} +])</𐍃𐍀𐌰𐌽></𐍃𐍀𐌰𐌽>
 |-
 <!---------------------------------
-other things
+𐍉𐍄𐌷𐌴𐍂 𐍄𐌷𐌹𐌽𐌲𐍃
 ----------------------------------->
-! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:left;">[[image:Crystal Clear app package network.png|20px|𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐍂𐌰𐌻𐌹𐍃𐌾𐍉𐍃]] [[𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐌲𐌰𐌻𐌹𐍃𐌾𐍉𐍃]]</div>
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #c𐌴𐍆2𐌴8; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y: v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 85%; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #8𐌱𐌴0c9; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄;  𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇; -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐌲𐍂𐌴𐌴𐌽1.𐌾𐍀𐌲]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐌻𐌴𐍆𐍄;">[[𐌹𐌼𐌰𐌲𐌴:c𐍂y𐍃𐍄𐌰𐌻 c𐌻𐌴𐌰𐍂 𐌰𐍀𐍀 𐍀𐌰c𐌺𐌰𐌲𐌴 𐌽𐌴𐍄𐍅𐍉𐍂𐌺.𐍀𐌽𐌲|20𐍀𐍇|𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐍂𐌰𐌻𐌹𐍃𐌾𐍉𐍃]] [[𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐌲𐌰𐌻𐌹𐍃𐌾𐍉𐍃]]</𐌳𐌹v>
 |-
-| style="font-family:Arial; font-size: 110%" | [[Image:Gallaecia-suev.png|right|thumb|300px]]
+| 𐍃𐍄y𐌻𐌴="𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:𐌰𐍂𐌹𐌰𐌻; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 110%" | [[𐌹𐌼𐌰𐌲𐌴:𐌲𐌰𐌻𐌻𐌰𐌴c𐌹𐌰-𐍃𐌿𐌴v.𐍀𐌽𐌲|𐍂𐌹𐌲𐌷𐍄|𐍄𐌷𐌿𐌼𐌱|300𐍀𐍇]]
 [[𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐌲𐌰𐌻𐌹𐍃𐌾𐍉𐍃]]
 
 𐍂𐌴𐌹𐌺𐌹 𐍃𐍅𐌴𐌱𐌴 𐌲𐌰𐌻𐌹𐍃𐌾𐍉 𐍅𐌰𐍃 𐍆𐍂𐌿𐌼𐌹𐍃𐍄𐍉 𐍂𐌴𐌹𐌺𐌹 𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽𐌰𐍄𐌰 𐌰𐍆 𐌲𐌴𐍂𐌼𐌰𐌽𐌹𐍃𐌺𐌰𐌹 𐌸𐌹𐌿𐌳𐌰𐌹 𐌹𐌽 𐌻𐌰𐌽𐌳𐌰𐌼 [[𐍂𐌴𐌹𐌺𐌹 𐍂𐍉𐌼𐌰𐌽𐌴]]. 𐍃𐌰𐍄𐌹𐌸𐌰𐍄𐌰 𐍅𐌰𐍃 𐌹𐌽 •[[𐍅𐌹]]• 𐌾𐌴𐍂𐌰 𐍆𐍂𐌰𐌵𐌹𐍃𐍄𐌹𐌸𐌰𐍄𐌰 𐍅𐌰𐍃 𐌹𐌽 •[[𐍆𐍀𐌳]]• 𐌰𐍆 [[𐍅𐌹𐍃𐌹𐌲𐌿𐍄𐌰|𐍅𐌹𐍃𐌹𐌲𐌿𐍄𐌰𐌼]]. 𐌼𐌹𐌽𐌽𐌹𐌶𐌰 𐍅𐌹𐍃𐌹𐌲𐌿𐍄𐌰𐌽𐌴 𐌹𐍄𐌰 𐌽𐌹 𐌰𐌹𐍅 𐍅𐌰𐍃 𐌼𐌰𐌷𐍄𐌴𐌹𐌲.
 
 𐌹𐌽 •[[𐍆𐍀𐌴]]•, 𐌰𐍆𐌰𐍂𐌴𐌹 𐍅𐌰𐍃 𐌸𐌰𐌹𐍂𐌷𐌳𐍂𐌰𐌿𐌷𐍄𐌹𐌽𐍉𐌳𐌰𐍄𐌰 𐌰𐍆 [[𐍅𐌹𐍃𐌹𐌲𐌿𐍄𐌰|𐍅𐌹𐍃𐌹𐌲𐌿𐍄𐌰𐌼]], 𐌲𐌰𐌼𐌴𐌾𐌹𐌳𐌰 𐌱𐌹 𐌹𐍄𐌰 [[𐌱𐍂𐌰𐌿𐌻𐌹𐍉 𐍃𐌰𐍂𐌰𐌲𐍉𐍃𐍉𐍃]] 𐌴𐌹 «𐍃𐍉 𐌰𐌽𐌳𐌴𐌹𐍃 𐍅𐌴𐍃𐍄𐌹𐍃 𐌹𐍃𐍄 𐌱𐍉𐌺𐌰𐌻𐌰𐌿𐍃𐌰𐍄𐌰 𐌻𐌰𐌽𐌳, 𐌹𐌽 𐌸𐌰𐌼𐌼𐌴𐌹 𐌽𐌹 𐍅𐌰𐌹𐌷𐍄𐍃 𐌷𐌰𐌿𐍃𐌾𐌰𐌳𐌰, 𐌰𐌻𐌾𐌰 𐍃𐍄𐌰𐌿𐍂𐌼𐌰𐌼»
 
-</div>
-</div>
+</𐌳𐌹v>
+</𐌳𐌹v>
 
 |}
 |}
 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f1f5fc;"
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 120%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃 𐌹𐌽 𐌰𐌻𐌾𐌰𐌹𐌼 𐍂𐌰𐌶𐌳𐍉𐌼</div>
+{| 𐍅𐌹𐌳𐍄𐌷="100%" c𐌴𐌻𐌻𐍀𐌰𐌳𐌳𐌹𐌽𐌲="2" c𐌴𐌻𐌻𐍃𐍀𐌰c𐌹𐌽𐌲="5" 𐍃𐍄y𐌻𐌴="v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽:𐍄𐍉𐍀; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆1𐍆5𐍆c;"
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #cc𐌳5𐍆4; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 120%; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #𐌱𐌱𐌱𐌱𐍆𐍆; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄;  𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐍀𐌿𐍂𐍀𐌻𐌴.𐌾𐍀𐌲]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐌻𐌴𐍆𐍄;">𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌾𐍉𐍃 𐌹𐌽 𐌰𐌻𐌾𐌰𐌹𐌼 𐍂𐌰𐌶𐌳𐍉𐌼</𐌳𐌹v>
 |-
 |
-<div class="boilerplate metadata" id="lang-100000" font-size:95%;">
-{{razdos}}
+<𐌳𐌹v c𐌻𐌰𐍃𐍃="𐌱𐍉𐌹𐌻𐌴𐍂𐍀𐌻𐌰𐍄𐌴 𐌼𐌴𐍄𐌰𐌳𐌰𐍄𐌰" 𐌹𐌳="𐌻𐌰𐌽𐌲-100000" 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:95%;">
+{{𐍂𐌰𐌶𐌳𐍉𐍃}}
 
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#f1f5fc;"
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 120%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">𐍃𐍅𐌹𐍃𐍄𐍂𐌰𐍅𐌰𐌿𐍂𐍃𐍄𐍅𐌰</div>
+{| 𐍅𐌹𐌳𐍄𐌷="100%" c𐌴𐌻𐌻𐍀𐌰𐌳𐌳𐌹𐌽𐌲="2" c𐌴𐌻𐌻𐍃𐍀𐌰c𐌹𐌽𐌲="5" 𐍃𐍄y𐌻𐌴="v𐌴𐍂𐍄𐌹c𐌰𐌻-𐌰𐌻𐌹𐌲𐌽:𐍄𐍉𐍀; 𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂:#𐍆1𐍆5𐍆c;"
+! 𐍃𐍄y𐌻𐌴="𐌱𐌰c𐌺𐌲𐍂𐍉𐌿𐌽𐌳-c𐍉𐌻𐍉𐍂: #cc𐌳5𐍆4; 𐍆𐍉𐌽𐍄-𐍆𐌰𐌼𐌹𐌻y:v𐌴𐍂𐌳𐌰𐌽𐌰, 𐌰𐍂𐌹𐌰𐌻, 𐌷𐌴𐌻v𐌴𐍄𐌹c𐌰, 𐍃𐌰𐌽𐍃-𐍃𐌴𐍂𐌹𐍆; 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴: 120%; 𐍆𐍉𐌽𐍄-v𐌰𐍂𐌹𐌰𐌽𐍄: 𐍃𐌼𐌰𐌻𐌻-c𐌰𐍀𐍃; 𐌱𐍉𐍂𐌳𐌴𐍂: 1𐍀𐍇 𐍃𐍉𐌻𐌹𐌳 #𐌱𐌱𐌱𐌱𐍆𐍆; 𐍄𐌴𐍇𐍄-𐌰𐌻𐌹𐌲𐌽: 𐌻𐌴𐍆𐍄;  𐍀𐌰𐌳𐌳𐌹𐌽𐌲-𐌻𐌴𐍆𐍄: 7𐍀𐍇;  -𐌼𐍉𐌶-𐌱𐍉𐍂𐌳𐌴𐍂-𐍂𐌰𐌳𐌹𐌿𐍃:10𐍀𐍇"  | <𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐍂𐌹𐌲𐌷𐍄;">[[𐌹𐌼𐌰𐌲𐌴:𐍅𐌱𐌰𐍂_𐍀𐌿𐍂𐍀𐌻𐌴.𐌾𐍀𐌲]]</𐌳𐌹v><𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐍆𐌻𐍉𐌰𐍄:𐌻𐌴𐍆𐍄;">𐍃𐍅𐌹𐍃𐍄𐍂𐌰𐍅𐌰𐌿𐍂𐍃𐍄𐍅𐌰</𐌳𐌹v>
 |-
 |
-<div class="boilerplate metadata" id="lang-100000" font-size:95%;">
-{{Wikipediaswistrjus}}
+<𐌳𐌹v c𐌻𐌰𐍃𐍃="𐌱𐍉𐌹𐌻𐌴𐍂𐍀𐌻𐌰𐍄𐌴 𐌼𐌴𐍄𐌰𐌳𐌰𐍄𐌰" 𐌹𐌳="𐌻𐌰𐌽𐌲-100000" 𐍆𐍉𐌽𐍄-𐍃𐌹𐌶𐌴:95%;">
+{{𐍅𐌹𐌺𐌹𐍀𐌴𐌳𐌹𐌰𐍃𐍅𐌹𐍃𐍄𐍂𐌾𐌿𐍃}}
 |}
-<br clear="all" />
-<div style="height: 8px;"></div>
+<𐌱𐍂 c𐌻𐌴𐌰𐍂="𐌰𐌻𐌻" />
+<𐌳𐌹v 𐍃𐍄y𐌻𐌴="𐌷𐌴𐌹𐌲𐌷𐍄: 8𐍀𐍇;"></𐌳𐌹v>
 |}
 
 
-[[Category:𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰]]
+[[c𐌰𐍄𐌴𐌲𐍉𐍂y:𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰]]
 
-[[an:]]
-[[ang:]]
-[[ar:]]
-[[ast:]]
-[[bar:]]
-[[bg:]]
-[[bpy:]]
-[[br:]]
-[[ca:]]
-[[ce:]]
-[[ckb:]]
-[[co:]]
-[[crh:]]
-[[cs:]]
+[[𐌰𐌽:]]
+[[𐌰𐌽𐌲:]]
+[[𐌰𐍂:]]
+[[𐌰𐍃𐍄:]]
+[[𐌱𐌰𐍂:]]
+[[𐌱𐌲:]]
+[[𐌱𐍀y:]]
+[[𐌱𐍂:]]
+[[c𐌰:]]
+[[c𐌴:]]
+[[c𐌺𐌱:]]
+[[c𐍉:]]
+[[c𐍂𐌷:]]
+[[c𐍃:]]
 [[cy:]]
-[[da:]]
-[[de:]]
-[[diq:]]
-[[dv:]]
-[[el:]]
-[[eo:]]
-[[es:]]
-[[et:]]
-[[eu:]]
-[[fa:]]
-[[fi:]]
-[[fiu-vro:]]
-[[fj:]]
-[[fo:]]
-[[fr:]]
-[[frr:]]
-[[fy:]]
-[[ga:]]
-[[gd:]]
-[[gl:]]
-[[gv:]]
-[[haw:]]
-[[he:]]
-[[hif:]]
-[[hr:]]
-[[ht:]]
-[[hu:]]
-[[ia:]]
-[[id:]]
-[[ig:]]
-[[io:]]
-[[it:]]
-[[ja:]]
-[[ka:]]
-[[kl:]]
-[[km:]]
-[[ko:]]
-[[kw:]]
-[[ky:]]
-[[lb:]]
-[[li:]]
-[[lt:]]
-[[lv:]]
-[[mg:]]
-[[mi:]]
-[[mk:]]
-[[ms:]]
-[[na:]]
-[[nah:]]
-[[nds:]]
-[[nds-nl:]]
-[[nl:]]
-[[nn:]]
-[[no:]]
-[[nv:]]
-[[oc:]]
-[[pcd:]]
-[[pdc:]]
-[[pih:]]
-[[pl:]]
-[[pt:]]
-[[rm:]]
-[[ro:]]
-[[roa-rup:]]
-[[ru:]]
-[[sa:]]
-[[sd:]]
-[[sh:]]
-[[si:]]
-[[sk:]]
-[[sl:]]
-[[sm:]]
-[[sr:]]
-[[stq:]]
-[[sv:]]
-[[ta:]]
-[[tg:]]
-[[th:]]
-[[tl:]]
-[[to:]]
-[[tpi:]]
-[[tr:]]
-[[tt:]]
-[[ty:]]
-[[ug:]]
-[[uk:]]
-[[ur:]]
-[[uz:]]
-[[vi:]]
-[[vls:]]
-[[wa:]]
-[[wo:]]
-[[wuu:]]
-[[xmf:]]
-[[yi:]]
-[[zea:]]
-[[zh:]]
+[[𐌳𐌰:]]
+[[𐌳𐌴:]]
+[[𐌳𐌹𐌵:]]
+[[𐌳v:]]
+[[𐌴𐌻:]]
+[[𐌴𐍉:]]
+[[𐌴𐍃:]]
+[[𐌴𐍄:]]
+[[𐌴𐌿:]]
+[[𐍆𐌰:]]
+[[𐍆𐌹:]]
+[[𐍆𐌹𐌿-v𐍂𐍉:]]
+[[𐍆𐌾:]]
+[[𐍆𐍉:]]
+[[𐍆𐍂:]]
+[[𐍆𐍂𐍂:]]
+[[𐍆y:]]
+[[𐌲𐌰:]]
+[[𐌲𐌳:]]
+[[𐌲𐌻:]]
+[[𐌲v:]]
+[[𐌷𐌰𐍅:]]
+[[𐌷𐌴:]]
+[[𐌷𐌹𐍆:]]
+[[𐌷𐍂:]]
+[[𐌷𐍄:]]
+[[𐌷𐌿:]]
+[[𐌹𐌰:]]
+[[𐌹𐌳:]]
+[[𐌹𐌲:]]
+[[𐌹𐍉:]]
+[[𐌹𐍄:]]
+[[𐌾𐌰:]]
+[[𐌺𐌰:]]
+[[𐌺𐌻:]]
+[[𐌺𐌼:]]
+[[𐌺𐍉:]]
+[[𐌺𐍅:]]
+[[𐌺y:]]
+[[𐌻𐌱:]]
+[[𐌻𐌹:]]
+[[𐌻𐍄:]]
+[[𐌻v:]]
+[[𐌼𐌲:]]
+[[𐌼𐌹:]]
+[[𐌼𐌺:]]
+[[𐌼𐍃:]]
+[[𐌽𐌰:]]
+[[𐌽𐌰𐌷:]]
+[[𐌽𐌳𐍃:]]
+[[𐌽𐌳𐍃-𐌽𐌻:]]
+[[𐌽𐌻:]]
+[[𐌽𐌽:]]
+[[𐌽𐍉:]]
+[[𐌽v:]]
+[[𐍉c:]]
+[[𐍀c𐌳:]]
+[[𐍀𐌳c:]]
+[[𐍀𐌹𐌷:]]
+[[𐍀𐌻:]]
+[[𐍀𐍄:]]
+[[𐍂𐌼:]]
+[[𐍂𐍉:]]
+[[𐍂𐍉𐌰-𐍂𐌿𐍀:]]
+[[𐍂𐌿:]]
+[[𐍃𐌰:]]
+[[𐍃𐌳:]]
+[[𐍃𐌷:]]
+[[𐍃𐌹:]]
+[[𐍃𐌺:]]
+[[𐍃𐌻:]]
+[[𐍃𐌼:]]
+[[𐍃𐍂:]]
+[[𐍃𐍄𐌵:]]
+[[𐍃v:]]
+[[𐍄𐌰:]]
+[[𐍄𐌲:]]
+[[𐍄𐌷:]]
+[[𐍄𐌻:]]
+[[𐍄𐍉:]]
+[[𐍄𐍀𐌹:]]
+[[𐍄𐍂:]]
+[[𐍄𐍄:]]
+[[𐍄y:]]
+[[𐌿𐌲:]]
+[[𐌿𐌺:]]
+[[𐌿𐍂:]]
+[[𐌿𐌶:]]
+[[v𐌹:]]
+[[v𐌻𐍃:]]
+[[𐍅𐌰:]]
+[[𐍅𐍉:]]
+[[𐍅𐌿𐌿:]]
+[[𐍇𐌼𐍆:]]
+[[y𐌹:]]
+[[𐌶𐌴𐌰:]]
+[[𐌶𐌷:]]
 
-[[de:Azal]]
-[[eu:Azal]]
-[[gd:Prìomh-Dhuilleag]]
-[[haw:Ka papa kinohi]]
-[[ig:Ihü Mbu]]
-[[km:ទំព័រដើម]]
-[[ky:Башбарак]]
-[[mg:Fandraisana]]
-[[na:Bwiema peij]]
-[[nah:Calīxatl]]
-[[nn:Hovudside]]
-[[sa:मुख्यपृष्ठम्]]
-[[ty:Fa’ari’ira’a]]
-[[ug:ئۇيغۇرچە ۋىكىپىدىيە]]
-[[vls:Voorblad]]
-[[wo:Xët wu njëkk]]
-[[xmf:დუდხასჷლა]]
+[[𐌳𐌴:𐌰𐌶𐌰𐌻]]
+[[𐌴𐌿:𐌰𐌶𐌰𐌻]]
+[[𐌲𐌳:𐍀𐍂ì𐍉𐌼𐌷-𐌳𐌷𐌿𐌹𐌻𐌻𐌴𐌰𐌲]]
+[[𐌷𐌰𐍅:𐌺𐌰 𐍀𐌰𐍀𐌰 𐌺𐌹𐌽𐍉𐌷𐌹]]
+[[𐌹𐌲:𐌹𐌷ü 𐌼𐌱𐌿]]
+[[𐌺𐌼:ទំព័រដើម]]
+[[𐌺y:башбарак]]
+[[𐌼𐌲:𐍆𐌰𐌽𐌳𐍂𐌰𐌹𐍃𐌰𐌽𐌰]]
+[[𐌽𐌰:𐌱𐍅𐌹𐌴𐌼𐌰 𐍀𐌴𐌹𐌾]]
+[[𐌽𐌰𐌷:c𐌰𐌻ī𐍇𐌰𐍄𐌻]]
+[[𐌽𐌽:𐌷𐍉v𐌿𐌳𐍃𐌹𐌳𐌴]]
+[[𐍃𐌰:मुख्यपृष्ठम्]]
+[[𐍄y:𐍆𐌰’𐌰𐍂𐌹’𐌹𐍂𐌰’𐌰]]
+[[𐌿𐌲:ئۇيغۇرچە ۋىكىپىدىيە]]
+[[v𐌻𐍃:v𐍉𐍉𐍂𐌱𐌻𐌰𐌳]]
+[[𐍅𐍉:𐍇ë𐍄 𐍅𐌿 𐌽𐌾ë𐌺𐌺]]
+[[𐍇𐌼𐍆:დუდხასჷლა]]
