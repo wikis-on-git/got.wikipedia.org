@@ -127,7 +127,7 @@ other things
 |-
 | style="font-family:Arial; font-size: 110%" | 
 
-{{User:Bokareis/article/{{#expr:{{CURRENTTIMESTAMP}} mod 3}}}}.
+{{User:Bokareis/article/{{#expr:{{CURRENTDAY}} mod 3}}}}.
 </div>
 </div>
 
