@@ -1,3 +1,5 @@
+{{:Main Page/Article {{#expr: {{CURRENTTIMESTAMP}} mod 10}}}}
+
 {| style="border-spacing:0px;margin:0px 0px;width:100%"
 | style="border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
