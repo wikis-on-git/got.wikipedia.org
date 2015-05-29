@@ -43,9 +43,9 @@
 ! style="background-color: #F0F3CD; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; font-variant: small-caps; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[image:wbar_green3.jpg]]</div><div style="float:left;">[[image:Nuvola apps ktip.png|22px|𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿]] [[Portal:𐍅𐌹𐍃𐍃𐌴𐍃|𐍅𐌹𐍃𐍃𐌴𐍃]]</div>
 |-
 | style="font-family:Arial; font-size: 89%;" |
-{{User:Bokareis/wisses1/{{#expr:{{CURRENTDAY}} mod 8 + 1}}}}.
-{{User:Bokareis/wisses2/{{#expr:{{CURRENTDAY}}*{{Rand|20}} mod 8 + 1}}}}.
-{{User:Bokareis/wisses3/{{#expr:{{CURRENTDAY}}*{{Rand|10}} mod 8 + 1}}}}.
+{{User:Bokareis/wisses1/{{#expr:{{CURRENTDAY}} mod 8 + 1}}}}
+{{User:Bokareis/wisses2/{{#expr:{{CURRENTDAY}}*{{Rand|20}} mod 8 + 1}}}}
+{{User:Bokareis/wisses3/{{#expr:{{CURRENTDAY}}*{{Rand|10}} mod 8 + 1}}}}
 
 <span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Portal:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿/𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃|𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃]] | <span class="plainlinks">[{{fullurl:Portal:𐍅𐌹𐍃𐍃𐌴𐍃|action=edit}} +])</span></span>
 |-
