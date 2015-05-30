@@ -58,7 +58,7 @@ other things
 |-
 | style="font-family:Arial; font-size: 110%" | 
 
-{{User:Bokareis/article/{{#expr:{{CURRENTWEEK}} mod 5 + 1}}}}.
+{{User:Bokareis/article/{{#expr:{{CURRENTWEEK}} mod 6 + 1}}}}.
 </div>
 </div>
 
