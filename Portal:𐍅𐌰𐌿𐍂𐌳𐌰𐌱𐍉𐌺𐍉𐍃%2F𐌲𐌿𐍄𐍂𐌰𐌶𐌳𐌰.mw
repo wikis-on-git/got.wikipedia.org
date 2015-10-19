@@ -3,21 +3,272 @@ Dictionary
 This dictionary contains both words which are reconstructed by linguists and the most important words from the Gothic Bible. m. f. or n. give the gender of a word, when there doesn't exist an attestation or reconstruction of a stem, it is not given.
 
 <pre>
-all - all, (Acc. bi all, Dative. in allama) completely
-dulþjan V. 1 - to celebrate a festival
-gamainjan V. 1 - to participate in
-gawagjan V. 1 - to move
-*Guta (m. N-stem) - Goth
-haurds (f. I-stem) - door (door of a house)
-hrabns (m.) - raven
-ƕeila (f. O-stem) - while, time
-miþniman V. 4 - to take together, accept as a unit
-niman V. 4 - to take
-praufetes (m. U/I-stem) - prophet
-praufeteis (f.) - prophetess
-qino (f. N-stem) - woman
-raginon V. 2 - to guide, to govern, to counsel
-skeirja (m. N-stem) - translator
-stiks (m. I-stem) - point, in stika melis = in a moment
-*Wandals (m.) - Vandal
+afar + dat = according to
+afþwahan (VI) = to wash
+afleiþan (V. I) = to leave
+aigan (V) = to own (often in relationship to family or abstract concepts – to have a wife, freedom etc.)
+aikklesjo (f. N) = church
+ainlif = eleven, dat. plur = ainlibim
+aiþei = mother
+aiwaggeli (n. Ja) = gospel
+aiwaggeljo (f. N) = gospel
+akrs (m. A) = field (used to grow food etc.)
+alhs (f. Cons) = temple
+alls (adj. A) = all, whole
+amen = amen
+an = then? (Used in the 1st position, often combined with interrogative like hvas or hva) example: an hvas mag ganisan? = who then can heal?
+andastaþjis (m. Ja) = adversary
+andawleizn = face
+andbahtjan (I) = to minister, to serve
+andbahts (m. A) = minister, servant
+andhafjan (VI) = to reply, to answer
+andniman (IV) = to receive
+ansts (f. I) = grace, bless
+apaustaulus (m. U/I) = apostle, (n. Plur = apaustauleis, g. Pl = apaustaule, all other forms are in line with the u-stem)
+ara (m. N) = eagle
+arbi (n. Ja) = inheritance
+ataugjan (I) = to show someone something (person to which something is shown = dative, thing shown = acc.)
+atta (m. N.) = father
+attekan + dative (V) = to touch
+atwitains (f. O) = observation
+auhsus (m. U) = ox
+auk = for (in the sense of: because of), only occurs in the 2nd or 3rd position of a sentence, example of 2nd position: qiþa auk izwis
+awiliudon + dative (II) = to thank
+balgs (m. I) = bottle
+bandi (f. Jo) = bond
+baurgs (f. Cons) = city, town (often used)
+beidan + gen (I) = to await something (gen)
+biuhti (n. A) = custom
+bistugq (n. A) = offence
+bokareis (m. Ja) = scribe
+broþralubo (f. N) = brotherly love
+bruks (adj. I) = profitable
+brusts (f. Kons) = bowel, chest
+dauhts (f. I) = party
+dauþs (adj. A) = dead
+diakaunus (m. U) = deacon (also occurs as diakona and diakuna in dative singular)
+distahjan (I) = to waste (goods)
+drauhsnos (f. O) = crumbs
+drauhtiwitoþ (n. A) = warfare
+driugan (II) = to go on warfare
+dulþs = festival, big party
+dwaliþa (f. O) = foolishness
+ei = that (conjunction)
+fairweitl (n. A) = spectacle, theater
+fani (n. Ja) = clay
+faur + accusative = for
+fauragaggi = steward
+fauragameljan (I) = to write before, to write afore (used for something which is already written down)
+faurarahnjan (I) = to outdo
+faurmuljan (I) = to muzzle
+faursigljan (I) = to seal (in front of something)
+faursniwan (V) = to come afore
+faurwaipjan (I) = to muzzle
+faurþis = before, earlier
+fidwor = four
+figgragulþ (n. A) = ring
+fimf = five
+frabauhtaboka (f. O) = document of sale
+fraihnan (V) = to ask
+fraihnan + accusative (V) = to ask (the thing asked for is in the genitive)
+fraïtan (V) = to eat, to waste (used for animals which are eating and things wasted)
+fraletan = to release
+fraliusan + dative (II) = to lose
+framaþjan (I) = to alienate (as being alienated from something)
+fraqistnan = to perish
+frawaurhts (f. I) = sin
+frawaurkjan (I) = to commit a sin
+frawisan + dative = to spend,
+freidjan (I) = to spare
+friaþwa (f. O) = love
+friaþwamilds (adj. A) = kindly loving, kindly affectioned (attested as friaþwamildai)
+frumisti (n. Ja) = fram/us frumistja = in the beginning,  in frumistjam = first of all
+fullaweisjan (I) = to persuade
+gabaidjan + accusative = to compell
+gabandwjan (I) = to make signs
+gabei (f. N) = richness
+gabigjan (I) = to make rich
+gabigs (adj. A) = rich
+gafastan = to preserve, to keep (a thing)
+gafilh (n. A) = burying
+gahaban (III) = 1. to hold fast 2. to retain, to keep 3. Gahaban sik af = to abstain
+gahlaiba (m. N) = companion
+gahlaifs (adj. A) = companion
+gairnjan + genitive = to long, to desire
+galaubeins (f. I/O) = belief, (g. Sing = galaubeinais, otherwise declined as am O-stem)
+galisan (V) = to read together, to gather
+gameleins (f. I/O) = scripture (plural = gameleinim)
+gamunan = to keep in memory (thing remembered = gen.)
+ganawistron (II) = to bury
+ganisan (V) = to get saved
+garazna (m. N) = neighbour
+gards (m. I) = house, family
+garuni (f. O) = councel (to discuss an issue together)
+gaskohi (n. Ia) = sandals, shoes
+gaslepan = to fall asleep, gasaizlepun = they fell asleep
+gaskafts (f. I) = creation
+gaspeiwan (I) = to spit
+gaswiltan (III) = to pass away
+gasts (m. I) = stranger, guest
+gaumjan + dative (I) = to observe
+gaurs (adj. A) = sad
+gawairþi (n. Ia) = peace
+gawaurkjan (I) = to effect, to prepare
+gaþlaihan (I) = to give a warning, to advice (in a warning way)
+gaþlaihan + dative (I) = to comfort
+gaþrafstjan (I) = to comfort, to refresh someone spiritually
+giba (f. O) = gift
+giban (V) = to give
+gild (n. A) = tax
+gilstr (n. A) = tax
+gistradagis = tomorrow
+gras (n. A) = herbs, blade
+gudja (m. N) = priest
+halks (adj. A) = in vain
+handus (m. U) = hand
+himins (m. A) = heaven
+himma daga = today
+hina dag = und hina dag = up to this day
+hindarleiþan (I) = to pass, to stop caring for cattle for a moment
+hita nu = und hita nu = up to now
+hiri = come here
+hlaiw (n. A) = tomb, grave
+hnaiwjan (II) = to humble, to make oneself small
+hors (m. A) = whore, prostitute, adulterer
+hva = what (nom.) (interr.)
+hvaiwa = how (interr.)
+hvar = where (interr.)
+hvas = who (nom.), masculine (interr.)
+hveh = in which way (interr.)
+hvo = who (nom.), feminine (interr.)
+hvopjan (V) = to praise oneself
+hugs (n. A) = country estate, agricultural land (stem and meaning reconstructed)
+hunds (m. A) = dog
+huzd (n. A) = treasure
+ibukana = back to (movement)
+ibuks = back
+idreigon = to repent
+Iesus (m. A-stem) = Jesus
+ik = I (used for emphasis or comparison)
+infeinan (IV) = to have compassion
+imma = him (dative)
+ina = him (accusative)
+inliuhtjan (I) = to enlighten (in the sense of realizing something)
+inwindiþa (f. O) = injustice
+(noun + inwindiþos = the injust + noun )
+inwinds (adj. A) = injust
+is (pers. Pron.) = he (used for emphasis and comparison)
+ïtan (V) = to eat (sad ïtan = to fill ones belly) (This is solely used for humans eating)
+Iudas = Judas
+iþ = but, if (only used as first word of phrase)
+jah = and, too
+jaþþe … jaþþe = whether … or
+ju = already
+junda (f. O) = youth
+Kaballarja = Caballaria
+kalkinassus (m. U) = fornication
+kannjan (I) = to declare something (acc.) to someone (dat.)
+kara (f. O) = care (hva kara + dative = what is that to … ?)
+kasja (m. N) = potter
+kawtsjo (f. N) = bond, warranty
+Kefas = Cephas
+kindins (m. A) = governor
+kukjan + dative (I) = to kiss
+laistjan + accusative (I) = to follow
+laus (adj. A) = vain
+leik (n. A) = body, corpse
+letan = to let (let ija = let her alone)
+ligrs (m. A) = bed
+lukarn = candle
+mahts (f. I) = power, might, possibility
+maurgins = morning
+meins (adj. A) = my, (always strong, so dative m. is meinamma)
+midjaswipains (f. I) = flood
+mik = me (acc.)
+mis = me (dat.)
+misso = each other
+mizdo (f. N) = reward, wage (of employee)
+miþ + dative = with, between
+miþþanei = while, when, during (always used in the past)
+Moses = Moses (declined as an a-stem, final -s changes to -z in genitive and dative)
+motareis (m. Ia) = publician
+naseins (f. O) = salvation,
+ni = not
+niba = 1. Not … ? 2. unless
+nibai = 1. Not … ? 2. Unless
+nih = neither
+niu = doesn’t / don’t …. ? (Rhetorical)
+ni þanaseiþs = not anymore
+papa (m. N) = priest
+praufetes (m. U/I) = prophet (is a u-stem, except for nom. plural praufeteis and gen. plural praufete)
+runa (f. O-stem) = secret, council (of people making decisions)
+saggws (m. I) = music, song
+saiws (m. A/I) = marshland
+salt (n. A) = salt
+sauþa (f. O) = ground, reason (only used as: in hvo sauþo = in which way)
+sels (adj. A) = good/kind/honest (where as goþs seems to only mean good, and being more common, sels is used to describe good qualities of something/someone)
+silubreins (adj. A) = silver
+simle = once, earlier
+skilliggs (m. A) = shilling
+spedists = last, spedista dags = the last day, spedistin daga = at the last day
+standan (VI) = to stand
+staua (f. O) = judgement, judge
+suns adv. = at once, suddenly
+sunus (m. U) = son
+swa = as, like
+sware adv. = in vain
+swaswe = as, just like
+sweriþa (f. O) = honour
+swes (n. A) = possessions, a living
+swibla = brimstone
+swikns (adj. A) = innocent, pure
+(I) = to light (a candle)
+ufarjaina = beyond you (far away, as in space)
+ufblesan (IV) = to puff up,
+ufligan (V) = to fail, to faint (used in the sense that one isn’t alive anymore)
+ufmeljan (I) = to sign
+unkja (m. N) = uncia (Latin)
+unleþs (adj. A) = poor (not rich)
+unsar (adj. A) = our ( always weak, dative singular masculine is unsaramma)
+urreisan (I) = to arise (us slepa urreisan = awake out of sleep)
+us + dative = out, from
+usbaugjan (I) = to sweep (a house)
+usbeisneigs (adj. A) = patient
+usfilh (n. A) = burial
+usfilhan (III) = to bury
+ushramjan (I) = to crucify
+uskiusan + accusative (II) = to test
+uskiusan + dative (II) = to reject
+usstandan (VI) = to arise (by standing)
+usstass (f. I) = resurrection
+ustiuhan = to finish, to end
+uswaurpa (f. O) = one born out of due time
+wairþ (n. A) = price
+wan (n. A) = lack
+wans (adj. A) = lacking
+warjan (I) = to forbid
+weihs (adj. A) = holy
+wens (f. I) = hope
+wilwa (m. N) = robber, bandit, preyer
+wisan (V) = to be merry, to celebrate
+witoþ (n. A) = law
+wiþrawairþo = ( þata wiþrawairþo = in contrary)
+wiþrawairþs (adj. A) = opposite, contrary
+wrikan (V) = to persecute
+þairh + accusative = through
+þan = than (never in first position)
+þata = that ( þatist = that is )
+þaþroh = 1. (Place) from there 2. (Temporal) after that
+þeihs (n. A) = time (used to refer to the abstract concept of time) ( bi þo þeihsa jah mela = of the times and the seasons)
+þiuda (f. O) = people, folk
+þiuþeigs (weak adj. A) = good, praised (laisareis þiuþeigs = good master)
+þis = of this/that (m. and n.)
+þize = of these/those (m. and n.)
+þizo = of these/those (only f.)
+þizos = of this/that (only f.)
+þridja (adj. A) = third, þata þridjo = the third time,
+þriskan (III) = to tread
+þu = you
+þuk = you (accusative)
+þus = you (dative)
 </pre>
