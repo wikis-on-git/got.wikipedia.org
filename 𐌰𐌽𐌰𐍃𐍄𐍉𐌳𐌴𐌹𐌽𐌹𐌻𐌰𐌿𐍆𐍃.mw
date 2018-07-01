@@ -50,7 +50,7 @@
 {{User:Bokareis/wisses2/{{#expr:{{CURRENTDAY}}*2 mod 21 + 1}}}}
 {{User:Bokareis/wisses3/{{#expr:{{CURRENTDAY}}*3 mod 21 + 1}}}}
 
-<span style="float:right; font-size: 85%; padding:0 .5em 0 2em">( [[Portal:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿/𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃|𐍆𐌰𐌹𐍂𐌽𐌾𐌳𐍃𐌹 𐍅𐌰𐌹𐌷𐍄𐍃]] | <span class="plainlinks">[{{fullurl:Portal:𐍅𐌹𐍃𐍃𐌴𐍃|action=edit}} +])</span></span>
+<span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Portal:𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿/𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃|𐌰𐌻𐌳𐌰𐌹 𐍅𐌰𐌹𐌷𐍄𐍉𐍃]] | <span class="plainlinks">[{{fullurl:Portal:𐍅𐌹𐍃𐍃𐌴𐍃|action=edit}} +])</span></span>
 |-
 <!---------------------------------
 other things
