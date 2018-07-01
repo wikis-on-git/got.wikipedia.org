@@ -41,9 +41,9 @@
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
 |-
 <!---------------------------------
-𐍅𐌹𐍃𐍃𐌴𐍃
+𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌰𐍄𐌴𐌹
 ----------------------------------->
-! style="background-color: #F0F3CD; font-size: 100%; font-variant: small-caps; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[image:wbar_green3.jpg]]</div><div style="float:left;">[[image:Nuvola apps ktip.png|22px|𐍅𐌹𐍃𐍃𐌴𐍃 𐌸𐌿]] [[Portal:𐍅𐌹𐍃𐍃𐌴𐍃|𐍅𐌹𐍃𐍃𐌴𐍃]]</div>
+! style="background-color: #F0F3CD; font-size: 100%; font-variant: small-caps; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | 
 |-
 | style="font-size: 89%;" |
 {{User:Bokareis/wisses1/{{#expr:{{CURRENTDAY}} mod 21 + 1}}}}
